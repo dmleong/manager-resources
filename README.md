@@ -72,22 +72,22 @@ I understand that it can be difficult to trust a new manager. You've probably be
 
 ## My Expectations
 
-I expect you, dear reader, to give me your best effort each day. I understand some days are just not working out. That's totes fine. I want to work with you to make sure that you have a reasonable workload with reasonable deadlines and you are taking care of yourself. If you aren't able to give it your all for whatever reason, let's talk about it sooner rather than later!
+**I expect you, dear reader, to give me your best effort each day.** I understand some days are just not working out. That's totes fine. I want to work with you to make sure that you have a reasonable workload with reasonable deadlines and you are taking care of yourself. If you aren't able to give it your all for whatever reason, let's talk about it sooner rather than later!
 
-I expect you to show up on time and be present at meetings. I hate useless meetings and promise to keep them to a minimum. There will always be an agenda. They'll probably always be remote meetings. So put on some pj pants and hop on video and be fully present for the short time we have together.
+**I expect you to show up on time and be present at meetings.** I hate useless meetings and promise to keep them to a minimum. There will always be an agenda. They'll probably always be remote meetings. So put on some pj pants and hop on video and be fully present for the short time we have together.
 
-I expect you to help out your fellow teammates if they need help. We all have trouble here and there and no one likes to feel like a burden! If someone is asking for help then let's help teach one another the skills we need to solve the problem.
+**I expect you to help out your fellow teammates if they need help.** We all have trouble here and there and no one likes to feel like a burden! If someone is asking for help then let's help teach one another the skills we need to solve the problem.
 
-I expect you to be respectful of one another's lived experiences. I hate to use a buzzword, but diversity & inclusion is super important to making good teams. That means sometimes misunderstandings happen! But I expect you to be respectful of someone's lived experiences. However, keep in mind that I value the safety of the marginalized over the hurt feelings of those with more privilege. Power dynamics in terms of race, gender and gender expression, sexual identity or expression, class, disability, religion, age, body size, etc will always be kept in mind. Clarifying questions: good. Dismissing someone's lived experiences: bad.
+**I expect you to be respectful of one another's lived experiences.** I hate to use a buzzword, but diversity & inclusion is super important to making good teams. That means sometimes misunderstandings happen! But I expect you to be respectful of someone's lived experiences. However, keep in mind that I value the safety of the marginalized over the hurt feelings of those with more privilege. Power dynamics in terms of race, gender and gender expression, sexual identity or expression, class, disability, religion, age, body size, etc will always be kept in mind. Clarifying questions: good. Dismissing someone's lived experiences: bad.
 
 
 ## Feedback
 
-I realize that as a manager there is a power imbalance between us. I hope that you will feel comfortable speaking to me about feedback in our daily stand ups, async retrospectives, 1:1s, and performance reviews. However, I recognize that it's not easy to do so! Please feel free to speak to my manager if you have any feedback about my performance that you don't feel comfortable telling me. You can also tell your teammates if you feel comfortable doing so, and hopefully they will pass it along to me.
+I realize that as a manager there is a power imbalance between us. I hope that you will feel comfortable speaking to me about feedback in our daily stand ups, async retrospectives, 1:1s, and performance reviews. However, I recognize that it's not easy to do so! **Please feel free to speak to my manager if you have any feedback about my performance that you don't feel comfortable telling me.** You can also tell your teammates if you feel comfortable doing so, and hopefully they will pass it along to me.
 
 ## Availability
 
-I am a strong believer in work/life balance. I do not expect you to respond to pings (with the exception of dotcom oncall rotation) unless it is normal business hours in your time zone. I highly discourage working on the weekend! (side projects are ok) I will not respond to pings on the weekend or during the evenings unless it's urgent. I encourage everyone to take liberal use of the Do Not Disturb feature. Remember: newer teammates may feel they need to work on weekends if they see you doing it!
+I am a strong believer in work/life balance. **I do not expect you to respond to pings (with the exception of dotcom oncall rotation) unless it is normal business hours in your time zone.** I highly discourage working on the weekend! (side projects are ok) I will not respond to pings on the weekend or during the evenings unless it's urgent. I encourage everyone to take liberal use of the Do Not Disturb feature. Remember: newer teammates may feel they need to work on weekends if they see you doing it!
 
 ## 1:1s
 
