@@ -12,7 +12,7 @@ I believe in doing the right thing. I believe in collaborative teams without bul
 - [Expectations](#my-expectations)
 - [Feedback](#feedback)
 - [Availability](#availability)
-- [1:1s](#1:1s)
+- [1:1s](#11s)
 - [Known failures](#known-failures)
 
 ## My philosophy
