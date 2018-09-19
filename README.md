@@ -3,7 +3,7 @@
 Welcome to my README! I realize I can be a little scary to work with, but I promise that I'm actually not here to rip your arms off. I want to help you! With that being said, I've got a few quirks that I hope I can clarify before things get weird.
 
 ## TLDR
-I have a very strong moral compass. I believe in collaborative teams without bullies. I will help you become the best person you can be if you let me. I value the safety of the marginalized over the hurt feelings of the privileged. I'm an introvert. I recommend reading [Radical Candor](https://www.blinkist.com/en/books/radical-candor-en/) to understand my feelings on feedback.
+I believe in doing the right thing. I believe in collaborative teams without bullies. I will help you become the best person you can be if you let me. I value the safety of the marginalized over the hurt feelings of the privileged. I'm an introvert. I recommend reading [Radical Candor](https://www.blinkist.com/en/books/radical-candor-en/) to understand my feelings on feedback.
 
 ## My philosophy
 
@@ -21,6 +21,7 @@ In real people terms, it means I expect my reports to be collaborative team play
 
 My role as the EM on this team is to:
 
+- trust you to do your job
 - unblock you
 - provide you with a safe environment to grow into a well-rounded human
 - give you timely feedback, both good and constructive
@@ -43,9 +44,11 @@ I value genuine efforts to improve over using the "correct" words all the time.
 
 **I value the safety of the marginalized over the hurt feelings of the privileged.**
 
-I value collaboration and clear communication over ego.
+I value collaboration and clear communication over ego (including my own).
 
 I value mental health over shipping velocity.
+
+I value learning from mistakes over blaming others.
 
 I value emotional labor.
 
