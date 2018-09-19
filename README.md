@@ -46,6 +46,8 @@ I value genuine efforts to improve over using the "correct" words all the time.
 
 I value context.
 
+I value consent and boundaries.
+
 I value collaboration and clear communication over ego (including my own).
 
 I value mental health over shipping velocity.
