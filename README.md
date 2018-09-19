@@ -5,6 +5,16 @@ Welcome to my README! I realize I can be a little scary to work with, but I prom
 ## TLDR
 I believe in doing the right thing. I believe in collaborative teams without bullies. I will help you become the best person you can be if you let me. I value the safety of the marginalized over the hurt feelings of the privileged. I'm an introvert. I recommend reading [Radical Candor](https://www.blinkist.com/en/books/radical-candor-en/) to understand my feelings on feedback.
 
+## Table of contents
+- [My philosophy](#my-philosophy)
+- [My role](#my-role)
+- [Values](#my-values)
+- [Expectations](#my-expectations)
+- [Feedback](#feedback)
+- [Availability](#availability)
+- [1:1s](#1:1s)
+- [Known failures](#known-failures)
+
 ## My philosophy
 
 I often ask people "What is your purpose in life?" I think it's a very telling question and I hope that you will one day be able to answer what you want to do when you grow up! For me, the answer has been pretty consistant for the past few years: **My purpose in life is to help people become the best they can be.**
