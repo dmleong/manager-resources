@@ -1,4 +1,4 @@
-# Hitchhiker's Guide to Working with Danielle
+# How does Danielle even
 
 Welcome to my README! I realize I can be a little scary to work with, but I promise that I'm actually not here to rip your arms off. I want to help you! With that being said, I've got a few quirks that I hope I can clarify before things get weird.
 
