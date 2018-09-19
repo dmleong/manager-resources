@@ -81,6 +81,21 @@ You can read more about my feelings on goals and 1:1s [here](https://medium.com/
 
 I will use these 1:1s to give you feedback, unblock you, work on your goals, and help you with anything that you need help with. I will take notes during these meetings so we remember what we worked on, but I encourage you to take your own notes as well!
 
+## Known failures
+
+As much as I like to think I'm a robot who will live forever without feelings, I often fail pretty hard. Some known failure modes I have are:
+
+- overcommitting to events and burning out
+- getting overwhelmed at social events (I am an introvert after all)
+- forgetting to do self-care
+- not liking being told what to do (asking questions has a much better success rate)
+
+Ways you can help!
+- remind me to take breaks (I always appreciate this)
+- remind me to delegate
+- give me some space if it looks like it's That Kind of Day
+- snacks. Snacks are always appreciated (savory preferred). Or coffee/tea.
+
 ## Conclusion
 
 Thank you for slogging through my very long README. Hopefully this helps you understand how to work better with me. Please feel free to open a PR with any suggestions!
