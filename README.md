@@ -37,13 +37,13 @@ You do have to meet me halfway. I will be your biggest cheerleader, but I can't 
 
 ## What do I value most?
 
-I value honesty.
+I value honesty over saving face.
 
-I value genuine efforts to improve.
+I value genuine efforts to improve over using the "correct" words all the time.
 
 **I value the safety of the marginalized over the hurt feelings of the privileged.**
 
-I value collaboration and clear communication.
+I value collaboration and clear communication over ego.
 
 I value mental health over shipping velocity.
 
