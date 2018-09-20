@@ -1,6 +1,6 @@
 # How does Danielle even
 
-Welcome to my README! I realize I can be a little scary to work with, but I promise that I'm actually not here to rip your arms off. I want to help you! With that being said, I've got a few quirks that I hope I can clarify before things get weird.
+Welcome to my README! I've heard that my passion for fighting for injustice can be a bit intimidating if you don't know me, so I wrote this README in hopes to help you understand how best to work with me. I care deeply about the work I do and the people on my team and I want to help you be your best self and do your best work.
 
 ## TLDR
 I believe in doing the right thing. I believe in collaborative teams without bullies. I will help you become the best person you can be if you let me. I value the safety of the marginalized over the hurt feelings of the privileged. I'm an introvert. I recommend reading [Radical Candor](https://www.blinkist.com/en/books/radical-candor-en/) to understand my feelings on feedback.
