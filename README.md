@@ -17,7 +17,7 @@ I believe in doing the right thing. I believe in collaborative teams without bul
 
 ## My philosophy
 
-I often ask people "What is your purpose in life?" I think it's a very telling question and I hope that you will one day be able to answer what you want to do when you grow up! For me, the answer has been pretty consistant for the past few years: **My purpose in life is to help people become the best they can be.**
+I often ask people "What is your purpose in life?" I think it's a very telling question and I hope a thought-provoking one! For me, the answer has been pretty consistant for the past few years: **My purpose in life is to help people become the best they can be.**
 
 I have always had a strong drive to help people and do the right thing. This often gets me into trouble more often than I like to admit (if it's not a HELL YES, it's a no), but I rarely regret it. I have a very strong moral compass, which can make it either easy or difficult to work with me! Doing the right thing is often hard, but it's the right thing.
 
