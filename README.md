@@ -115,7 +115,7 @@ Our daily standup is every day for ten minutes. It's led by that week's first re
 - What we worked on since the last standup
 - What we're currently working on
 
-On Wednesdays, we have async stand up where status is communicated via Slack in the #camps-standup channel.
+On Wednesdays, we have async stand up where status is communicated via Slack.
 
 All members of the team are expected to attend.
 
