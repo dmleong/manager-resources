@@ -12,7 +12,11 @@ I believe in doing the right thing. I believe in collaborative teams without bul
 - [Expectations](#my-expectations)
 - [Feedback](#feedback)
 - [Availability](#availability)
-- [1:1s](#11s)
+- [Meetings](#meetings)
+  - [1:1s](#11s)
+  - [Daily standup](#daily-standup)
+  - [Bi-weekly iterations](#biweekly-iterations)
+  - [Retrospectives](#retrospectives)
 - [Known failures](#known-failures)
 
 ## My philosophy
@@ -91,6 +95,8 @@ I realize that as a manager there is a power imbalance between us. I hope that y
 
 I am a strong believer in work/life balance. **I do not expect you to respond to pings (with the exception of dotcom oncall rotation) unless it is normal business hours in your time zone.** I highly discourage working on the weekend! (side projects are ok) I will not respond to pings on the weekend or during the evenings unless it's urgent. I encourage everyone to take liberal use of the Do Not Disturb feature. Remember: newer teammates may feel they need to work on weekends if they see you doing it!
 
+# Meetings
+
 ## 1:1s
 
 1:1s are our time to **work together** on _your career_. They will always have agendas, have a space to add any additional emotional labor you're doing, and be a space for us to work on the next portion of your career. They are typically 30 min every week.
@@ -98,6 +104,63 @@ I am a strong believer in work/life balance. **I do not expect you to respond to
 You can read more about my feelings on goals and 1:1s [here](https://medium.com/@tsunamino/setting-goals-with-your-engineers-that-dont-completely-suck-cb76b87e4275)
 
 I will use these 1:1s to give you feedback, unblock you, work on your goals, and help you with anything that you need help with. I will take notes during these meetings so we remember what we worked on, but I encourage you to take your own notes as well!
+
+We can work together to set a meeting cadence that works for us. Both of us have the ability to reschedule our 1:1 if the time doesn't work out.
+
+## Daily Stand Up
+
+Our daily standup is every day for ten minutes. It's led by that week's first responder (randomly assigned via PagerDuty), and we each go over:
+
+- Any blockers
+- What we worked on since the last standup
+- What we're currently working on
+
+On Wednesdays, we have async stand up where status is communicated via Slack in the #camps-standup channel.
+
+All members of the team are expected to attend.
+
+## Bi-Weekly Iterations
+
+Our bi-weekly iterations are planning and sync meetings with the team and representatives from other teams we work with.
+
+Every two weeks, we will meet to discuss:
+- Work we are planning on doing
+- Unusual metrics we've seen
+- Statuses from the teams we work with
+- Agenda items
+- Deep dive presentations on topics of interest for the group
+
+At the beginning every iteration, engineers should pick the work that they anticipate working on in the next two weeks from the On Deck column and assign themselves a project. **It is not a requirement to finish the entire project**, but it will help the team and external dependencies understand what to expect in the coming weeks.
+
+All members of the team are expected to attend.
+
+## Retrospectives
+
+At the beginning of every month, an async retrospective issue will be opened in our repo. All members of the team (and guests!) are welcome to leave comments on the issue. On the last day of the month we have a 10 minute retrospective where we go over:
+
+- What worked
+- What could have been improved
+- Action items for next time
+
+The first responder takes notes in an issue in this repo, categorizes them, and adds the retrospective label.
+
+All members of the team are expected to attend the synchronous retrospective.
+
+## Office Hours
+
+Twice a month, we have open office hours on half an hour to an hour. Anyone and everyone is welcome to join us and ask questions regarding abuse vectors, product features, or just to hang out. We often invite guests from other companies to join us so we can learn from their processes.
+
+All members of the team are expected to attend.
+
+## Coffee Talk
+
+Twice a month (alternating with office hours) we have informal coffee talk for half an hour. It's completely optional for team members to attend, but highly encouraged so we can relax and get to know one another!
+
+## Slack
+
+Slack should be used to coordinate development efforts. It is also a place to provide a bit of a virtual water cooler and connect more with each other. Also emoji. :palm_tree: :sparkling_heart: :rocket:
+
+We have a public channel for work talk and a private channel for more sensitive topics.
 
 ## Known failures
 
