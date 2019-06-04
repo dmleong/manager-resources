@@ -3,7 +3,7 @@
 Welcome to my README! I've heard that my passion for fighting to right injustice can be a bit intimidating if you don't know me, so I wrote this README in hopes to help you understand how best to work with me. I care deeply about the work I do and the people on my team and I want to help you be your best self and do your best work.
 
 ## TLDR
-I believe in doing the right thing. I believe in collaborative teams without bullies. I will help you become the best person you can be if you let me. I value the safety of the marginalized over the hurt feelings of the privileged. I'm an introvert. I recommend reading [Radical Candor](https://www.blinkist.com/en/books/radical-candor-en/) to understand my feelings on feedback and watching [Fresh Off the Boat](https://en.wikipedia.org/wiki/Fresh_Off_the_Boat) to understand my motiviations for running a team.
+I believe in doing the right thing. I believe in collaborative teams without bullies. I love to ship things quickly and iteratively. I love to learn and to teach. I value context. I will help you become the best person you can be if you let me. I value the safety of the marginalized over the hurt feelings of the privileged. I'm an introvert. I recommend reading [Radical Candor](https://www.blinkist.com/en/books/radical-candor-en/) to understand my feelings on feedback and watching [Fresh Off the Boat](https://en.wikipedia.org/wiki/Fresh_Off_the_Boat) to understand my motiviations for running a team.
 
 ## Table of contents
 - [My philosophy](#my-philosophy)
@@ -35,7 +35,7 @@ I like to think of myself as a momma bear coaching a soccer team that my cubs ar
 
 In real people terms, it means I expect my reports to be collaborative team players and to be good sports if something does go wrong. There is no room for ego on my team. **There is no room for bullies on this team.** If someone is doing really well on the team, we should all celebrate that person's work! If you're doing really well, we will also celebrate you! If you need to constantly be in the limelight **at the expense of others**, then you may want to reconsider if this is the best fit for you.
 
-I also identify pretty strongly with Jessica from [Fresh Off the Boat](https://en.wikipedia.org/wiki/Fresh_Off_the_Boat). I'll push you to do your absolute best, but it's only because I care about your future!
+I also identify pretty strongly with Jessica from [Fresh Off the Boat](https://en.wikipedia.org/wiki/Fresh_Off_the_Boat) (in the first 3 seasons at least). I'll push you to do your absolute best, but it's only because I care about your future!
 
 My role as the EM on this team is to:
 
@@ -60,7 +60,7 @@ I value honesty over saving face.
 
 I value genuine efforts to improve over using the "correct" words all the time.
 
-**I value the safety of the marginalized over the hurt feelings of the privileged.**
+I value the safety of the marginalized over the hurt feelings of the privileged.
 
 I value context.
 
@@ -69,6 +69,8 @@ I value consent and boundaries.
 I value collaboration and clear communication over ego (including my own).
 
 I value mental health over shipping velocity.
+
+I value shipping iteratively and quickly.
 
 I value learning from mistakes over blaming others.
 
@@ -86,12 +88,12 @@ I understand that it can be difficult to trust a new manager. You've probably be
 
 **I expect you to help out your fellow teammates if they need help.** We all have trouble here and there and no one likes to feel like a burden! If someone is asking for help then let's help teach one another the skills we need to solve the problem.
 
-**I expect you to be respectful of one another's lived experiences.** I hate to use a buzzword, but diversity & inclusion is super important to making good teams. That means sometimes misunderstandings happen! But I expect you to be respectful of someone's lived experiences. However, keep in mind that I value the safety of the marginalized over the hurt feelings of those with more privilege. Power dynamics in terms of race, gender and gender expression, sexual identity or expression, class, disability, religion, age, body size, etc will always be kept in mind. Clarifying questions: good. Dismissing someone's lived experiences: bad.
+**I expect you to be respectful of one another's lived experiences.** I hate to use a buzzword, but diversity & inclusion is super important to making good teams. That means sometimes misunderstandings happen! But I expect you to be respectful of someone's lived experiences. However, keep in mind that I value the safety of the marginalized over the hurt feelings of those with more privilege. Power dynamics in terms of race, gender and gender expression, sexual identity or expression, class, disability, religion, age, body size, etc will always be kept in mind. **Clarifying questions: good. Dismissing someone's lived experiences: bad.**
 
 
 ## Feedback
 
-I realize that as a manager there is a power imbalance between us. I hope that you will feel comfortable speaking to me about feedback in our daily stand ups, async retrospectives, 1:1s, and performance reviews. However, I recognize that it's not easy to do so! **Please feel free to speak to my manager if you have any feedback about my performance that you don't feel comfortable telling me.** You can also tell your teammates if you feel comfortable doing so, and hopefully they will pass it along to me.
+I realize that as a manager there is a power imbalance between us. I hope that you will feel comfortable speaking to me about feedback in our daily stand ups, async/sync retrospectives, 1:1s, and performance reviews. However, I recognize that it's not easy to do so! **Please feel free to speak to my manager if you have any feedback about my performance that you don't feel comfortable telling me.** You can also tell your teammates if you feel comfortable doing so, and hopefully they will pass it along to me.
 
 ## Availability
 
