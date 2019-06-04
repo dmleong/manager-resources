@@ -3,7 +3,7 @@
 Welcome to my README! I've heard that my passion for fighting to right injustice can be a bit intimidating if you don't know me, so I wrote this README in hopes to help you understand how best to work with me. I care deeply about the work I do and the people on my team and I want to help you be your best self and do your best work.
 
 ## TLDR
-I believe in doing the right thing. I believe in collaborative teams without bullies. I love to ship things quickly and iteratively. I love to learn and to teach. I value context. I will help you become the best person you can be if you let me. I value the safety of the marginalized over the hurt feelings of the privileged. I'm an introvert. I recommend reading [Radical Candor](https://www.blinkist.com/en/books/radical-candor-en/) to understand my feelings on feedback and watching [Fresh Off the Boat](https://en.wikipedia.org/wiki/Fresh_Off_the_Boat) to understand my motiviations for running a team.
+I believe in doing the right thing. I believe in collaborative teams without bullies. I love to ship things quickly and iteratively. I love to learn and to teach. I value context. I will help you become the best person you can be if you let me. I value the safety of the marginalized over the hurt feelings of the privileged. I'm an introvert. I recommend reading [Radical Candor](https://www.blinkist.com/en/books/radical-candor-en/) to understand my feelings on feedback and watching [Fresh Off the Boat](https://en.wikipedia.org/wiki/Fresh_Off_the_Boat) (seasons 1-3) to understand my motiviations for running a team.
 
 ## Table of contents
 - [My philosophy](#my-philosophy)
