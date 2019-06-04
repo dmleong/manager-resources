@@ -99,6 +99,8 @@ I am a strong believer in work/life balance. **I do not expect you to respond to
 
 # Meetings
 
+I'm a strong believer in having [useful, short, productive meetings](https://blog.liberationist.org/the-ultimate-guide-to-successful-meetings-563bd2e172d3), in-person/video meetings to for clarity and emotional connection, and making sure everything is well-documented. I value your time as well as my own, so each meeting starts and ends on time, and will be facilitated. I also welcome one-off meetings! If there's something you need help with right now, please don't hesitate to throw something on my calendar. 
+
 ## 1:1s
 
 1:1s are our time to **work together** on _your career_. They will always have agendas, have a space to add any additional emotional labor you're doing, and be a space for us to work on the next portion of your career. They are typically 30 min every week.
