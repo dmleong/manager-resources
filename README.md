@@ -3,7 +3,7 @@
 Welcome to my README! I've heard that my passion for fighting to right injustice can be a bit intimidating if you don't know me, so I wrote this README in hopes to help you understand how best to work with me. I care deeply about the work I do and the people on my team and I want to help you be your best self and do your best work.
 
 ## TLDR
-I believe in doing the right thing. I believe in collaborative teams without bullies. I love to ship things quickly and iteratively. I love to learn and to teach. I value context. I will help you become the best person you can be if you let me. I value the safety of the marginalized over the hurt feelings of the privileged. I'm an introvert. I recommend reading [Radical Candor](https://www.blinkist.com/en/books/radical-candor-en/) to understand my feelings on feedback and watching [Fresh Off the Boat](https://en.wikipedia.org/wiki/Fresh_Off_the_Boat) (seasons 1-3) to understand my motiviations for running a team.
+I believe in doing the right thing. I believe in collaborative teams without bullies. I love to ship things quickly and iteratively. I love to learn and to teach. I value context. I will help you become the best person you can be if you let me. I value the safety of the marginalized over the hurt feelings of the privileged. I'm an introvert. I recommend reading [Radical Candor](https://www.blinkist.com/en/books/radical-candor-en/) to understand my feelings on feedback and watching [Fresh Off the Boat](https://en.wikipedia.org/wiki/Fresh_Off_the_Boat) (seasons 1-4) to understand my motiviations for running a team.
 
 ## Table of contents
 - [My philosophy](#my-philosophy)
@@ -35,7 +35,7 @@ I like to think of myself as a momma bear coaching a soccer team that my cubs ar
 
 In real people terms, it means I expect my reports to be collaborative team players and to be good sports if something does go wrong. There is no room for ego on my team. **There is no room for bullies on this team.** If someone is doing really well on the team, we should all celebrate that person's work! If you're doing really well, we will also celebrate you! If you need to constantly be in the limelight **at the expense of others**, then you may want to reconsider if this is the best fit for you.
 
-I also identify pretty strongly with Jessica from [Fresh Off the Boat](https://en.wikipedia.org/wiki/Fresh_Off_the_Boat) (in the first 3 seasons at least). I'll push you to do your absolute best, but it's only because I care about your future!
+I also identify pretty strongly with Jessica from [Fresh Off the Boat](https://en.wikipedia.org/wiki/Fresh_Off_the_Boat) (in the first 4 seasons at least). I'll push you to do your absolute best, but it's only because I care about your future!
 
 My role as the EM on this team is to:
 
