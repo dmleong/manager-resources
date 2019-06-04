@@ -78,6 +78,8 @@ I value emotional labor.
 
 I value getting things done.
 
+I value having fun! We do serious things, but we don't necessarily have to be serious all the time.
+
 I understand that it can be difficult to trust a new manager. You've probably been burned before! But hopefully laying out my values can help you understand where I'm coming from. I will always tell you as much information as I know and am able to tell you. I will always care about you as a person and your wellbeing. I will always fight for what is the right thing to do. My values are the most important thing to me.
 
 ## My Expectations
