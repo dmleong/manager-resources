@@ -182,6 +182,7 @@ Ways you can help!
 - remind me to delegate
 - give me some space if it looks like it's That Kind of Day
 - snacks. Snacks are always appreciated (savory preferred). Or coffee/tea.
+- start with questions and context - I always value learning about your understanding of a situation so that we can be on the same page
 
 ## Conclusion
 
