@@ -103,7 +103,7 @@ I am a strong believer in work/life balance. **I do not expect you to respond to
 
 ## Expenses and Requests
 
-I prefer to be asked about days off. And please ask about expenses that seem out of the ordinary (ie- expensive or not easily/recognizably related to work). (shamelessly lifted from @ashren's README)
+I prefer to be asked about days off. And please ask about expenses that seem out of the ordinary (ie- expensive or not easily/recognizably related to work). (shamelessly lifted from @asheren's README)
 
 # Meetings
 
