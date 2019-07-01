@@ -101,9 +101,13 @@ I realize that as a manager there is a power imbalance between us. I hope that y
 
 I am a strong believer in work/life balance. **I do not expect you to respond to pings (with the exception of dotcom oncall rotation) unless it is normal business hours in your time zone.** I highly discourage working on the weekend! (side projects are ok) I will not respond to pings on the weekend or during the evenings unless it's urgent. I encourage everyone to take liberal use of the Do Not Disturb feature. Remember: newer teammates may feel they need to work on weekends if they see you doing it!
 
+## Expenses and Requests
+
+I prefer to be asked about days off. And please ask about expenses that seem out of the ordinary (ie- expensive or not easily/recognizably related to work). (shamelessly lifted from @ashren's README)
+
 # Meetings
 
-I'm a strong believer in having [useful, short, productive meetings](https://blog.liberationist.org/the-ultimate-guide-to-successful-meetings-563bd2e172d3), in-person/video meetings to for clarity and emotional connection, and making sure everything is well-documented. I value your time as well as my own, so each meeting starts and ends on time, and will be facilitated. I also welcome one-off meetings! If there's something you need help with right now, please don't hesitate to throw something on my calendar. 
+I'm a strong believer in having [useful, short, productive meetings](https://blog.liberationist.org/the-ultimate-guide-to-successful-meetings-563bd2e172d3), in-person/video meetings to for clarity and emotional connection, and making sure everything is well-documented. I value your time as well as my own, so each meeting starts and ends on time, and will be facilitated. I also welcome one-off meetings! If there's something you need help with right now, please don't hesitate to throw something on my calendar.
 
 ## 1:1s
 
