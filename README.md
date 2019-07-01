@@ -1,9 +1,9 @@
 # How does Danielle even
 
-Welcome to my README! I've heard that my passion for fighting to right injustice can be a bit intimidating if you don't know me, so I wrote this README in hopes to help you understand how best to work with me. I care deeply about the work I do and the people on my team and I want to help you be your best self and do your best work.
+Welcome to my README! I've heard that my passion can be a bit intimidating if you don't know me, so I wrote this README in hopes to help you understand how best to work with me. I care deeply about the work I do and the people on my team and I want to help you be your best self and do your best work.
 
 ## TLDR
-I believe in doing the right thing. I believe in collaborative teams without bullies. I love to ship things quickly and iteratively. I love to learn and to teach. I value context. I will help you become the best person you can be if you let me. I value the safety of the marginalized over the hurt feelings of the privileged. I'm an introvert. I recommend reading [Radical Candor](https://www.blinkist.com/en/books/radical-candor-en/) to understand my feelings on feedback and watching [Fresh Off the Boat](https://en.wikipedia.org/wiki/Fresh_Off_the_Boat) (seasons 1-4) to understand my motiviations for running a team.
+I believe in doing the right thing. I believe in collaborative teams without bullies. I love to ship things quickly and iteratively. I love to learn and to teach. I value context. I will help you become the best person you can be if you let me. I value the safety of the marginalized over the hurt feelings of the privileged. I'm an introvert. I recommend reading [Radical Candor](https://www.blinkist.com/en/books/radical-candor-en/) to understand my feelings on feedback and watching [Fresh Off the Boat](https://en.wikipedia.org/wiki/Fresh_Off_the_Boat) (seasons 1-4) to understand my motivations for running a team.
 
 ## Table of contents
 - [My philosophy](#my-philosophy)
@@ -12,6 +12,7 @@ I believe in doing the right thing. I believe in collaborative teams without bul
 - [Expectations](#my-expectations)
 - [Feedback](#feedback)
 - [Availability](#availability)
+- [Expenses and Requests](#expenses-and-requests)
 - [Meetings](#meetings)
   - [1:1s](#11s)
   - [Daily standup](#daily-standup)
@@ -21,7 +22,7 @@ I believe in doing the right thing. I believe in collaborative teams without bul
 
 ## My philosophy
 
-I often ask people "What is your purpose in life?" I think it's a very telling question and I hope a thought-provoking one! For me, the answer has been pretty consistant for the past few years: **My purpose in life is to help people become the best they can be.**
+I often ask people "What is your purpose in life?" I think it's a very telling question and I hope a thought-provoking one! For me, the answer has been pretty consistent for the past few years: **My purpose in life is to help people become the best they can be.**
 
 I have always had a strong drive to help people and do the right thing. This often gets me into trouble more often than I like to admit (if it's not a HELL YES, it's a no), but I rarely regret it. I have a very strong moral compass, which can make it either easy or difficult to work with me! Doing the right thing is often hard, but it's the right thing.
 
@@ -86,7 +87,7 @@ I understand that it can be difficult to trust a new manager. You've probably be
 
 **I expect you, dear reader, to give me your best effort each day.** I understand some days are just not working out. That's totes fine. I want to work with you to make sure that you have a reasonable workload with reasonable deadlines and you are taking care of yourself. If you aren't able to give it your all for whatever reason, let's talk about it sooner rather than later!
 
-**I expect you to show up on time and be present at meetings.** I hate useless meetings and promise to keep them to a minimum. There will always be an agenda. They'll probably always be remote meetings. So put on some pj pants and hop on video and be fully present for the short time we have together.
+**I expect you to show up on time and be present at meetings.** I hate useless meetings and promise to keep them to a minimum. There will always be an agenda. They'll probably always be remote meetings. There will be a facilitator and a notetaker. So put on some pj pants and hop on video and be fully present for the short time we have together.
 
 **I expect you to help out your fellow teammates if they need help.** We all have trouble here and there and no one likes to feel like a burden! If someone is asking for help then let's help teach one another the skills we need to solve the problem.
 
@@ -107,7 +108,7 @@ I prefer to be asked about days off. And please ask about expenses that seem out
 
 # Meetings
 
-I'm a strong believer in having [useful, short, productive meetings](https://blog.liberationist.org/the-ultimate-guide-to-successful-meetings-563bd2e172d3), in-person/video meetings to for clarity and emotional connection, and making sure everything is well-documented. I value your time as well as my own, so each meeting starts and ends on time, and will be facilitated. I also welcome one-off meetings! If there's something you need help with right now, please don't hesitate to throw something on my calendar.
+I'm a strong believer in having [useful, short, productive meetings](https://blog.liberationist.org/the-ultimate-guide-to-successful-meetings-563bd2e172d3), in-person/video meetings to for clarity and emotional connection, and making sure everything is well-documented. I value your time as well as my own, so each meeting starts and ends on time, and will be facilitated and have notes at the end. I also welcome one-off meetings! If there's something you need help with right now, please don't hesitate to throw something on my calendar.
 
 ## 1:1s
 
