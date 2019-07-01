@@ -128,9 +128,17 @@ Our daily standup is every day for ten minutes. It's led by that week's first re
 - What we worked on since the last standup
 - What we're currently working on
 
-On Wednesdays, we have async stand up where status is communicated via Slack.
+We currently use Geekbot to facilitate our async stand ups, as many people have indicated that it's useful for them to list things down. I keep an eye on these async standups to:
 
-All members of the team are expected to attend.
+- Check if anyone is blocked for an unreasonable amount of time
+- Keep a general temperature check on things if people are stressed
+- Stay informed if someone is in a different time zone
+
+Geekbot should not be:
+
+- A place to compare your status with other team member statuses! Different people have different projects with different scope - keep focused on your definition of "productive"
+
+All members of the team are expected to attend/participate.
 
 ## Bi-Weekly Iterations
 
