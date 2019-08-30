@@ -108,7 +108,9 @@ I prefer to be asked about days off. And please ask about expenses that seem out
 
 # Meetings
 
-I'm a strong believer in having [useful, short, productive meetings](https://blog.liberationist.org/the-ultimate-guide-to-successful-meetings-563bd2e172d3), in-person/video meetings for clarity and emotional connection, and making sure everything is well-documented. I value your time as well as my own, so each meeting starts and ends on time, and will be facilitated and have notes at the end. I also welcome one-off meetings! If there's something you need help with right now, please don't hesitate to throw something on my calendar.
+I'm a strong believer in having [useful, short, productive meetings](https://blog.liberationist.org/the-ultimate-guide-to-successful-meetings-563bd2e172d3), in-person/video meetings for clarity and emotional connection, and making sure everything is well-documented. I value your time as well as my own, so **each meeting starts and ends on time**, and will be facilitated and have notes at the end. I also welcome longer one-off meetings! If there's something you need help with right now, please don't hesitate to throw something on my calendar.
+
+![Screenshot 2019-08-30 08 55 19](https://user-images.githubusercontent.com/2171822/64035503-d7f5dc80-cb05-11e9-9fb9-c8b580273b0f.png)
 
 ## 1:1s
 
