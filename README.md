@@ -201,6 +201,14 @@ Ways you can help!
 - snacks. Snacks are always appreciated (savory preferred). Or coffee/tea.
 - start with questions and context - I always value learning about your understanding of a situation so that we can be on the same page
 
+Ways I'm working on these: 
+- regularly going to therapy
+- regularly going to the gym 
+- actively working on [closing the stress cycle](https://www.amazon.com/Burnout-Secret-Unlocking-Stress-Cycle-ebook/dp/B07DT4GW16/ref=tmm_kin_swatch_0?_encoding=UTF8&qid=1567181581&sr=8-1) 
+- [photography](https://instagram.com/danielleleongphoto)
+- limiting the number of extracurricular activities I do
+- regularly taking time off
+
 ## Conclusion
 
 Thank you for slogging through my very long README. Hopefully this helps you understand how to work better with me. Please feel free to open a PR with any suggestions!
