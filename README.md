@@ -18,7 +18,7 @@ I believe in doing the right thing. I believe in collaborative teams without bul
   - [Daily standup](#daily-standup)
   - [Bi-weekly iterations](#biweekly-iterations)
   - [Retrospectives](#retrospectives)
-- [Known failures](#known-failures)
+- [Known failures](#known-failures) (and how I'm working on them)
 
 ## My philosophy
 
@@ -194,13 +194,6 @@ As much as I like to think I'm a robot who will live forever without feelings, I
 - forgetting to do self-care
 - not liking being told what to do (asking questions has a much better success rate)
 
-Ways you can help!
-- remind me to take breaks (I always appreciate this)
-- remind me to delegate
-- give me some space if it looks like it's That Kind of Day
-- snacks. Snacks are always appreciated (savory preferred). Or coffee/tea.
-- start with questions and context - I always value learning about your understanding of a situation so that we can be on the same page
-
 Ways I'm working on these: 
 - regularly going to therapy
 - regularly going to the gym 
@@ -208,6 +201,14 @@ Ways I'm working on these:
 - [photography](https://instagram.com/danielleleongphoto)
 - limiting the number of extracurricular activities I do
 - regularly taking time off
+- limiting social media usage
+
+Ways you can help!
+- remind me to take breaks (I always appreciate this)
+- remind me to delegate
+- give me some space if it looks like it's That Kind of Day
+- snacks. Snacks are always appreciated (savory preferred). Or coffee/tea.
+- start with questions and context - I always value learning about your understanding of a situation so that we can be on the same page
 
 ## Conclusion
 
