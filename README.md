@@ -51,7 +51,7 @@ My role as the EM on this team is to:
 My role is not to:
 
 - do your job for you
-- enable laziness
+- enable destructive behaviors 
 
 You do have to meet me halfway. I will be your biggest cheerleader, but I can't be everywhere at once! Sometimes I'll ask you to write down what you're doing to help me out. Sometimes it's because I legit have too many things to focus on and I need an easy way to recall all the amazing things that you've done lately. Help me help you get more money!
 
