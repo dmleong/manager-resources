@@ -10,6 +10,7 @@ I believe in doing the right thing. I believe in collaborative teams without bul
 - [My role](#my-role)
 - [Values](#my-values)
 - [Expectations](#my-expectations)
+- [High performers](#high-performers)
 - [Feedback](#feedback)
 - [Availability](#availability)
 - [Expenses and Requests](#expenses-and-requests)
@@ -51,7 +52,7 @@ My role as the EM on this team is to:
 My role is not to:
 
 - do your job for you
-- enable destructive behaviors 
+- enable destructive behaviors
 
 You do have to meet me halfway. I will be your biggest cheerleader, but I can't be everywhere at once! Sometimes I'll ask you to write down what you're doing to help me out. Sometimes it's because I legit have too many things to focus on and I need an easy way to recall all the amazing things that you've done lately. Help me help you get more money!
 
@@ -94,13 +95,32 @@ I understand that it can be difficult to trust a new manager. You've probably be
 **I expect you to be respectful of one another's lived experiences.** I hate to use a buzzword, but diversity & inclusion is super important to making good teams. That means sometimes misunderstandings happen! But I expect you to be respectful of someone's lived experiences. However, keep in mind that I value the safety of the marginalized over the hurt feelings of those with more privilege. Power dynamics in terms of race, gender and gender expression, sexual identity or expression, class, disability, religion, age, body size, etc will always be kept in mind. **Clarifying questions: good. Dismissing someone's lived experiences: bad.**
 
 
+## High performers
+
+While most of the people on my teams end up being high performers, I think it's valuable to document what I've found useful.
+
+As a high performer myself, I find that the best way to stifle someone's passion and creativity is to force them do things without a valid reason, not believe them when they raise a concern, and not pay attention to burnout levels. My general guidelines are:
+
+- I expect high performers to motivate themselves! If you aren't motivated, then something's wrong and let's work on it together. Sometimes it's a structural problem, sometimes it's a personal problem. Whatever it is, let's talk it through and work on a solution together.
+
+- I will do my best to guide you to new challenges. Sometimes that involves challenging you to improve your interpersonal skills with other people! These are just as valuable as technical skills.
+
+- I will try very hard not to spring any last minute or unreasonable requests on you. It's pretty rude to constantly have to fight fires and it's bad for people's mental health to do so.
+
+- I'll try to request things rather than tell you to do them. On the rare occasion I _require_ you to do something, I'll do my best to explain why it's important, the timeline it's needed, and who the request is coming from.
+
+- I try acknowledge the good as well as the Needs Improvement(tm)! Sometimes as a high performer, you don't realize just how great you're doing because it's easy to move on to the next thing that needs fixing. I'll be sure to point out when you're also kicking ass.
+
+- I'll probably keep a close on your PTO. As a high performer myself, I'm often working on a million things at once until all of a sudden I'm too exhausted to do anything. I'll likely keep a reoccurring task on our 1:1 agendas to check in on the last time you took some time off.
+
+
 ## Feedback
 
 I realize that as a manager there is a power imbalance between us. I hope that you will feel comfortable speaking to me about feedback in our daily stand ups, async/sync retrospectives, 1:1s, and performance reviews. However, I recognize that it's not easy to do so! **Please feel free to speak to my manager if you have any feedback about my performance that you don't feel comfortable telling me.** You can also tell your teammates if you feel comfortable doing so, and hopefully they will pass it along to me.
 
 ## Availability
 
-I am a strong believer in work/life balance. **I do not expect you to respond to pings (with the exception of dotcom oncall rotation) unless it is normal business hours in your time zone.** I highly discourage working on the weekend! (side projects are ok) I will not respond to pings on the weekend or during the evenings unless it's urgent. I encourage everyone to take liberal use of the Do Not Disturb feature. Remember: newer teammates may feel they need to work on weekends if they see you doing it!
+I am a strong believer in work/life balance. **I do not expect you to respond to pings (with the exception of oncall rotation) unless it is normal business hours in your time zone.** I highly discourage working on the weekend! (side projects are ok) I will not respond to pings on the weekend or during the evenings unless it's urgent. I encourage everyone to take liberal use of the Do Not Disturb feature. Remember: newer teammates may feel they need to work on weekends if they see you doing it!
 
 ## Expenses and Requests
 
