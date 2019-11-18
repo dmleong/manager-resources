@@ -7,10 +7,10 @@ I believe in doing the right thing. I believe in collaborative teams without bul
 
 ## Table of contents
 - [My philosophy](docs/about.md#my-philosophy)
-- [My role](docs/about.md#my-role)
+- [My role](docs/about.md#my-role) (momma bear coaching soccer.gif)
 - [Values](docs/values.md)
-- [Expectations](docs/expectations.md)
-- [High performers](docs/high-performers.md)
+- [Expectations](docs/expectations.md#expectations)
+  - [High performers](docs/expectations.md#high-performers)
 - [Housekeeping](docs/housekeeping.md)
   - [Feedback](docs/housekeeping.md#feedback)
   - [Availability](docs/housekeeping.md#availability)
