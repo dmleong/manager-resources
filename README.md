@@ -3,7 +3,7 @@
 Welcome to my README! I've heard that my passion can be a bit intimidating if you don't know me, so I wrote this README in hopes to help you understand how best to work with me. I care deeply about the work I do and the people on my team and I want to help you be your best self and do your best work.
 
 ## TLDR
-I believe in doing the right thing. I believe in collaborative teams without bullies. I love to ship things quickly and iteratively. I love to learn and to teach. I value context. I will help you become the best person you can be if you let me. I value the safety of the marginalized over the hurt feelings of the privileged. I'm an introvert. I recommend reading [Radical Candor](https://www.blinkist.com/en/books/radical-candor-en/) to understand my feelings on feedback and watching [Fresh Off the Boat](https://en.wikipedia.org/wiki/Fresh_Off_the_Boat) (seasons 1-4) to understand my motivations for running a team.
+I believe in doing the right thing. I believe in collaborative teams without bullies. I love to ship things quickly and iteratively. I love to learn and to teach. I value context. I will help you become the best person you can be if you let me. I value the safety of the marginalized over the hurt feelings of the privileged. I'm an introvert. I recommend reading [Radical Candor](https://www.blinkist.com/en/books/radical-candor-en/) to understand my feelings on feedback and watching [Fresh Off the Boat](https://en.wikipedia.org/wiki/Fresh_Off_the_Boat) (seasons 1-4) to understand my motivations for running a team and Lara Hogan's [Resilient Management](https://abookapart.com/products/resilient-management) to understand my communication style.
 
 ## Table of contents
 - [My philosophy](#my-philosophy)
@@ -214,10 +214,10 @@ As much as I like to think I'm a robot who will live forever without feelings, I
 - forgetting to do self-care
 - not liking being told what to do (asking questions has a much better success rate)
 
-Ways I'm working on these: 
+Ways I'm working on these:
 - regularly going to therapy
-- regularly going to the gym 
-- actively working on [closing the stress cycle](https://www.amazon.com/Burnout-Secret-Unlocking-Stress-Cycle-ebook/dp/B07DT4GW16/ref=tmm_kin_swatch_0?_encoding=UTF8&qid=1567181581&sr=8-1) 
+- regularly going to the gym
+- actively working on [closing the stress cycle](https://www.amazon.com/Burnout-Secret-Unlocking-Stress-Cycle-ebook/dp/B07DT4GW16/ref=tmm_kin_swatch_0?_encoding=UTF8&qid=1567181581&sr=8-1)
 - [photography](https://instagram.com/danielleleongphoto)
 - limiting the number of extracurricular activities I do
 - regularly taking time off
