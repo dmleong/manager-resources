@@ -6,9 +6,10 @@ Welcome to my README! I've heard that my passion can be a bit intimidating if yo
 I believe in doing the right thing. I believe in collaborative teams without bullies. I love to ship things quickly and iteratively. I love to learn and to teach. I value context. I will help you become the best person you can be if you let me. I value the safety of the marginalized over the hurt feelings of the privileged. I'm an introvert. I recommend reading [Radical Candor](https://www.blinkist.com/en/books/radical-candor-en/) to understand my feelings on feedback and watching [Fresh Off the Boat](https://en.wikipedia.org/wiki/Fresh_Off_the_Boat) (seasons 1-4) to understand my motivations for running a team and Lara Hogan's [Resilient Management](https://abookapart.com/products/resilient-management) to understand my communication style.
 
 ## Table of contents
-- [My philosophy](docs/about.md#my-philosophy)
-- [My role](docs/about.md#my-role) (momma bear coaching soccer.gif)
-- [Values](docs/values.md)
+- [About](docs/about.md)
+  - [My philosophy](docs/about.md#my-philosophy)
+  - [My role](docs/about.md#my-role) (momma bear coaching soccer.gif)
+  - [Values](docs/about.md#values)
 - [Expectations](docs/expectations.md#expectations)
   - [High performers](docs/expectations.md#high-performers)
 - [Housekeeping](docs/housekeeping.md)
