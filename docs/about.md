@@ -13,7 +13,7 @@ I have always had a strong drive to help people and do the right thing. This oft
 
 I like to think of myself as a momma bear coaching a soccer team that my cubs are on. I will 100% eat any other bears that dares to hurt my team, but I also expect my cubsters to be on their best behavior and to be excellent team players. Everyone must shake hands (or paws, if you must) with the other team at the end of the game. No exceptions.
 
-![obligatory bear gif](bear.gif)
+![obligatory bear gif](../bear.gif)
 
 In real people terms, it means I expect my reports to be collaborative team players and to be good sports if something does go wrong. There is no room for ego on my team. **There is no room for bullies on this team.** If someone is doing really well on the team, we should all celebrate that person's work! If you're doing really well, we will also celebrate you! If you need to constantly be in the limelight **at the expense of others**, then you may want to reconsider if this is the best fit for you.
 
