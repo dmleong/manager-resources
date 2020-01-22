@@ -18,10 +18,10 @@
 ### What do you not like from your manager? 
 - Notes
 
-### Key phrases of constructive feedback from me
-Minor feedback
-“I need you to…by...” 
-“You must do…by…” 
+### Key phrases of constructive feedback from me by severity
+- Minor feedback
+- “I need you to…by...” 
+- “You must do…by…” 
 
 ### Links: 
 - Manger README https://github.com/dmleong/manager-resources 
