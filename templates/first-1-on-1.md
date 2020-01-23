@@ -29,7 +29,7 @@ Key phrases of constructive feedback from me by severity
 - “You must do…by…” 
 
 Links: 
-- Manger README https://github.com/dmleong/manager-resources 
+- Manager README https://github.com/dmleong/manager-resources 
 
 
 ### Action items
