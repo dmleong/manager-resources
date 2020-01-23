@@ -6,7 +6,7 @@
 ### What do you want to work on more? 
 - Notes 
 
-### What is your working style? 
+### What is your working style? How much information do you need in order to make a decision? How many projects do you like to balance at once? 
 - Notes
 
 ### What causes you stress? 
