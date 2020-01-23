@@ -18,6 +18,9 @@
 ### What do you not like from your manager? 
 - Notes
 
+### How do you like to receive praise?
+- Notes
+
 ### Key phrases of constructive feedback from me by severity
 - Minor feedback
 - “I need you to…by...” 
