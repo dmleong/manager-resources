@@ -21,12 +21,14 @@
 ### How do you like to receive praise?
 - Notes
 
-### Key phrases of constructive feedback from me by severity
+### Other stuff 
+
+Key phrases of constructive feedback from me by severity
 - Minor feedback
 - “I need you to…by...” 
 - “You must do…by…” 
 
-### Links: 
+Links: 
 - Manger README https://github.com/dmleong/manager-resources 
 
 
