@@ -14,7 +14,7 @@ Check out my thoughts on [goals](https://medium.com/@tsunamino/setting-goals-wit
   - [Values](docs/about.md#values)
 - [Expectations](docs/expectations.md#expectations) and [high performers](docs/expectations.md#high-performers)
 - [Housekeeping](docs/housekeeping.md)
-  - [Feedback](docs/housekeeping.md#feedback)
+  - [Feedback for me](docs/housekeeping.md#feedback-for-me)
   - [Availability](docs/housekeeping.md#availability)
   - [Expenses and Requests](docs/housekeeping.md#expenses-and-requests)
 - [Meetings](docs/meetings.md)
