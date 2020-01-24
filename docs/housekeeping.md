@@ -1,7 +1,7 @@
 # Housekeeping
 Miscellanious but important info
 
-## Feedback
+## Feedback for me
 
 I realize that as a manager there is a power imbalance between us. I hope that you will feel comfortable speaking to me about feedback in our daily stand ups, async/sync retrospectives, 1:1s, and performance reviews. However, I recognize that it's not easy to do so! **Please feel free to speak to my manager if you have any feedback about my performance that you don't feel comfortable telling me.** You can also tell your teammates if you feel comfortable doing so, and hopefully they will pass it along to me.
 
