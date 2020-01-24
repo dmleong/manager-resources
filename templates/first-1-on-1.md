@@ -21,9 +21,7 @@
 ### How do you like to receive praise?
 - Notes
 
-### Other stuff 
-
-Links: 
+### Links
 - [Manager README](https://github.com/dmleong/manager-resources )
 - [How I will provide feedback to you](https://github.com/dmleong/manager-resources/blob/master/docs/expectations.md#how-i-will-provide-feedback-to-you)
 
