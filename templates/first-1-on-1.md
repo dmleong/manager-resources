@@ -23,14 +23,9 @@
 
 ### Other stuff 
 
-Key phrases of constructive feedback from me by severity
-- Minor feedback
-- “I need you to…by...” 
-- “You must do…by…” 
-
 Links: 
-- Manager README https://github.com/dmleong/manager-resources 
-
+- [Manager README](https://github.com/dmleong/manager-resources )
+- [How I will provide feedback to you](https://github.com/dmleong/manager-resources/blob/master/docs/expectations.md#how-i-will-provide-feedback-to-you)
 
 ### Action items
 - [ ] Action items
