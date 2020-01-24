@@ -15,12 +15,12 @@ Here's a list of resources I have personally found helpful. I include the Blinki
   - How to be a great product manager 
 
 ### Management
+- [The Culture Code](https://blinki.st/0e6f8273219e) (book)
+  - How to build a team that works together 
 - [Difficult Conversations](https://blinki.st/0e6f8273219e) (book)
   - Giving tough feedback and having hard conversations is part of the job. Here's how to do it well
 - [Dream Teams](https://blinki.st/0e6f8273219e) (book)
   - How to build teams that actually work together 
-- [The Culture Code](https://blinki.st/0e6f8273219e) (book)
-  - How to build a team that works together 
 - [How to set goals with your engineers that don't totally suck](https://link.medium.com/2spD8XpLv3) (article)
   - My thoughts and structure on how to have effective goals and useful 1:1s
 - [Multipliers](https://blinki.st/0e6f8273219e) (book)
