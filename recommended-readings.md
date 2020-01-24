@@ -21,6 +21,8 @@ Here's a list of resources I have personally found helpful. I include the Blinki
   - How to build teams that actually work together 
 - [The Culture Code](https://blinki.st/0e6f8273219e) (book)
   - How to build a team that works together 
+- [How to set goals with your engineers that don't totally suck](https://link.medium.com/2spD8XpLv3) (article)
+  - My thoughts and structure on how to have effective goals and useful 1:1s
 - [Multipliers](https://blinki.st/0e6f8273219e) (book)
   - Amplify your impact by making other people better so you can do other things 
 - [Radical Candor](https://blinki.st/0e6f8273219e) (book)
