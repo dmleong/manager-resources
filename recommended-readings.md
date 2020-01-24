@@ -6,7 +6,7 @@ Here's a list of resources I have personally found helpful. I include the Blinki
 - [Burnout: the secret to unlocking the stress cycle](https://www.amazon.com/dp/1984818325/ref=cm_sw_r_cp_api_i_DqVkEbEKKD7WY) (book)
   - Excellent book for women/femmes who are exhausted by the demands of work, home, and society. Discusses tools to close the stress cycle and how the game is rigged 
 - [It doesn't have to be crazy at work](https://blinki.st/0e6f8273219e) (book)
-  - Being "busy" is not usually a good thing these day's 
+  - Being "busy" is not usually a good thing these days 
 - [Panda Planner](http://pandaplanner.com) (tool)
   - Physical day planner that helps balance priorities with mental health
 
