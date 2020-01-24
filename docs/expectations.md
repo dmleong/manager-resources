@@ -25,3 +25,32 @@ As a high performer myself, I find that the best way to stifle someone's passion
 - I try acknowledge the good as well as the Needs Improvement(tm)! Sometimes as a high performer, you don't realize just how great you're doing because it's easy to move on to the next thing that needs fixing. I'll be sure to point out when you're also kicking ass.
 
 - I'll probably keep a close on your PTO. As a high performer myself, I'm often working on a million things at once until all of a sudden I'm too exhausted to do anything. I'll likely keep a reoccurring task on our 1:1 agendas to check in on the last time you took some time off.
+
+## How I will provide feedback to you
+
+I believe feedback should be given swiftly, clearly, and kindly. If I'm walking around with spinach in my teeth, I would be really upset if my friends didn't tell me about it! The same thing with feedback: I believe you should always tell someone if they they're doing well or there's room for improvement. 
+
+I like to give feedback on a regular basis. I will use our [1:1s](meetings.md#11s) mainly for this to cover: 
+
+- Any specific examples I see of behavior I'd like to see **more** of 
+- Any specific examples I see of behavior I'd like to see **less** of 
+
+Feedback will be on both technical and interpersonal parts of the job!
+
+### Positive feedback can be conveyed in the following ways: 
+- Public sparkles in Slack
+- Slack DM 
+- Written down in our 1:1 records and added to performance reviews
+- Gift card OR donation to your favorite charity OR physical gift, whichever you prefer 
+
+### Constructive feedback can be conveyed in the following ways: 
+- Slack DM OR video call OR in person
+- Written down in our 1:1 records and added to performance reviews
+
+I try to be very consistent in my constructive feedback. Key phrases of constructive feedback from me by severity include: 
+- "Minor feedback:" ... (i.e. truly minor nitpick thing I noticed)
+- “I need you to…by...” (i.e. this wasn't great, please don't do it again)
+- “You must do…by…” (i.e. you will likely be written up if you do this again)
+
+We will always talk through any feedback and if you have additional context to add, then please feel free to do so. I believe performance reviews should never be a surprise. You and I should be having very regular conversations about things! If we are not, then that is indicative of larger problems and you should probably [provide feedback about me to my manager](housekeeping.md#feedback-for-me).
+
