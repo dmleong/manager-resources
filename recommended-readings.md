@@ -27,6 +27,8 @@ Here's a list of resources I have personally found helpful. I include the Blinki
   - Amplify your impact by making other people better so you can do other things 
 - [Radical Candor](https://blinki.st/0e6f8273219e) (book)
   - Giving people feedback is a kindness! Make sure you do it regularly and honestly 
+- [Remote manager toolkit](https://github.com/alexwitherspoon/Remote-Manager-Toolkit)
+  - @alexwitherspoon's fantastic resource on remote manager tools
 - [Resilient Management](https://abookapart.com/products/resilient-management) (book) 
   - Excellent book for managers looking to improve their team processes, how to handle tough conversations, and 1:1s. Has actionable templates and is a reasonable length!
 - [What We Say Matters](https://blinki.st/0e6f8273219e) (book) 
