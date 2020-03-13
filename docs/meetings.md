@@ -51,13 +51,13 @@ All members of the team are expected to attend.
 
 ## Retrospectives
 
-At the beginning of every month, an async retrospective issue will be opened in our repo. All members of the team (and guests!) are welcome to leave comments on the issue. On the last day of the month we have a 10 minute retrospective where we go over:
+At the beginning of every month, an async retrospective issue will be opened in our repo. All members of the team (and guests!) are welcome to leave comments on the issue. On the last day of the month we have a 1 hour retrospective where we go over:
 
 - What worked
 - What could have been improved
 - Action items for next time
 
-The first responder takes notes in an issue in this repo, categorizes them, and adds the retrospective label.
+A moderator sets up a board on [FunRetro](http://funretro.com) with the above categories. Teammates are allowed to vote on anything that resonates with them. Typically there are 3 minutes set aside for each category and about 10 minutes for discussion. The moderator takes notes in an issue in this repo, categorizes them, and adds the retrospective label.
 
 All members of the team are expected to attend the synchronous retrospective.
 
