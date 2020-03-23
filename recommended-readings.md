@@ -15,6 +15,8 @@ Here's a list of resources I have personally found helpful. I include the Blinki
   - How to be a great product manager 
 
 ### Management
+- [1:1 GitHub Actions](https://github.com/sophshep/one-on-one) (tools) 
+  - @sophshep's 1:1 repos and automation tools via Actions
 - [The Culture Code](https://blinki.st/0e6f8273219e) (book)
   - How to build a team that works together 
 - [Difficult Conversations](https://blinki.st/0e6f8273219e) (book)
