@@ -23,6 +23,8 @@ Here's a list of resources I have personally found helpful. I include the Blinki
   - Giving tough feedback and having hard conversations is part of the job. Here's how to do it well
 - [Dream Teams](https://blinki.st/0e6f8273219e) (book)
   - How to build teams that actually work together 
+- [Goal setting for managers](https://www.youtube.com/watch?v=np1rZvM9GD4&t=66s) (lightning talk)
+  - Quick lightning talk on how to structure goals for someone who doesn't quite know what they want to do yet
 - [How to set goals with your engineers that don't totally suck](https://link.medium.com/2spD8XpLv3) (article)
   - My thoughts and structure on how to have effective goals and useful 1:1s
 - [Multipliers](https://blinki.st/0e6f8273219e) (book)
