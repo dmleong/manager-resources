@@ -57,7 +57,7 @@ At the beginning of every month, an async retrospective issue will be opened in 
 - What could have been improved
 - Action items for next time
 
-A moderator sets up a board on [FunRetro](http://funretro.com) with the above categories. Teammates are allowed to vote on anything that resonates with them. Typically there are 3 minutes set aside for each category and about 10 minutes for discussion. The moderator takes notes in an issue in this repo, categorizes them, and adds the retrospective label.
+A moderator sets up a board on [FunRetro](https://funretro.io/) with the above categories. Teammates are allowed to vote on anything that resonates with them. Typically there are 3 minutes set aside for each category and about 10 minutes for discussion. The moderator takes notes in an issue in this repo, categorizes them, and adds the retrospective label.
 
 All members of the team are expected to attend the synchronous retrospective.
 
