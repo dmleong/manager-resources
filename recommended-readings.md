@@ -29,6 +29,8 @@ Here's a list of resources I have personally found helpful. I include the Blinki
   - Index on 6 different areas that can help you prevent making a cultural faux pas. Areas include: Power Distance Index (high versus low), Individualism Versus Collectivism, Masculinity Versus Femininity, Uncertainty Avoidance Index (high versus low), Long- Versus Short-Term Orientation, Indulgence Versus Restraint
 - [How to set goals with your engineers that don't totally suck](https://link.medium.com/2spD8XpLv3) (article)
   - My thoughts and structure on how to have effective goals and useful 1:1s
+- [Model, Document, Share](https://lethain.com/model-document-share/)
+  - How to lead without explicit power through modeling behavior you want to see, documenting best practices, and sharing 
 - [Multipliers](https://blinki.st/0e6f8273219e) (book)
   - Amplify your impact by making other people better so you can do other things 
 - [Radical Candor](https://blinki.st/0e6f8273219e) (book)
