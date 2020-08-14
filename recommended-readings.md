@@ -35,6 +35,8 @@ Here's a list of resources I have personally found helpful. I include the Blinki
   - Amplify your impact by making other people better so you can do other things 
 - [Radical Candor](https://blinki.st/0e6f8273219e) (book)
   - Giving people feedback is a kindness! Make sure you do it regularly and honestly 
+- [Reasons to step into a leadership role (or not)](https://leaddev.com/reasons-step-leadership-role-and-reasons-not)
+  - Are you interested in becoming a manager or stepping into a leadership role? What's driving you? Check out this great resource and make sure you're doing it for the right reasons
 - [Remote manager toolkit](https://github.com/alexwitherspoon/Remote-Manager-Toolkit)
   - @alexwitherspoon's fantastic resource on remote manager tools
 - [Resilient Management](https://abookapart.com/products/resilient-management) (book) 
