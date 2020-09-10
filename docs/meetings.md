@@ -8,7 +8,7 @@ I'm a strong believer in having [useful, short, productive meetings](https://blo
 
 1:1s are our time to **work together** on _your career_. They will always have agendas, have a space to add any additional emotional labor you're doing, and be a space for us to work on the next portion of your career. They are typically 30 min every week.
 
-You can read more about my feelings on goals and 1:1s [here](https://medium.com/@tsunamino/setting-goals-with-your-engineers-that-dont-completely-suck-cb76b87e4275)
+You can read more about my feelings on goals and 1:1s [here](https://medium.com/@tsunamino/setting-goals-with-your-engineers-that-dont-completely-suck-cb76b87e4275) and [here](https://fellow.app/blog/2020/tips-for-effective-and-meaningful-one-on-one-meetings/)
 
 I will use these 1:1s to give you feedback, unblock you, work on your goals, and help you with anything that you need help with. I will take notes during these meetings so we remember what we worked on, but I encourage you to take your own notes as well!
 
