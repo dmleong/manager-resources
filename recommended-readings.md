@@ -15,6 +15,8 @@ Here's a list of resources I have personally found helpful. I include the Blinki
   - How to be a great product manager 
 
 ### Management
+- [10 Expert Tips for Effective and Meaningful One-on-One Meetings](https://fellow.app/blog/2020/tips-for-effective-and-meaningful-one-on-one-meetings/)
+  - An article summery of a Twitter chat I participated in to discuss how to have effective 1:1 meetings 
 - [1:1 GitHub Actions](https://github.com/sophshep/one-on-one) (tools) 
   - @sophshep's 1:1 repos and automation tools via Actions
 - [The Culture Code](https://blinki.st/0e6f8273219e) (book)
