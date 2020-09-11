@@ -47,6 +47,8 @@ Here's a list of resources I have personally found helpful. I include the Blinki
   - Outlining the different types of staff engineers
 - [Tribal Leadership](https://www.blinkist.com/en/nc/reader/tribal-leadership-en) (book) 
   - Describing the 5 stages of a company's culture from toxic ("my life sucks and I can't do anything about it") to efficient and aspirational ("we are great and we are working towards a noble goal") 
+- [‘Ugh fields’, or why you can’t even bear to think about that task](https://medium.com/@robertwiblin/ugh-fields-or-why-you-can-t-even-bear-to-think-about-that-task-5941837dac62)
+  - Check in on your reports on what they're avoiding as well as what they're doing
 - [What We Say Matters](https://blinki.st/0e6f8273219e) (book) 
   - We are still doing phrasing and it's important. Communication is so important as a manager
 
