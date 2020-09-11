@@ -2,6 +2,7 @@
 
 ### What can we talk about?
 - [ ] Discussion items
+- [ ] What's on your [ugh list](https://medium.com/@robertwiblin/ugh-fields-or-why-you-can-t-even-bear-to-think-about-that-task-5941837dac62)? 
 
 ### What can we celebrate?
 Difficult task you accomplished, work you're proud of, kudos you've gotten.
