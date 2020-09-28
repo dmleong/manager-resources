@@ -35,24 +35,26 @@ Here's a list of resources I have personally found helpful. I include the Blinki
   - How to lead without explicit power through modeling behavior you want to see, documenting best practices, and sharing 
 - [Multipliers](https://blinki.st/0e6f8273219e) (book)
   - Amplify your impact by making other people better so you can do other things 
-- [Not all engineering leaders are managers](https://leaddev.com/not-all-engineering-leaders-are-engineering-managers) (article) 
-  - Stop pushing leaders into management if it doesn't suit them. This article discusses how to encourage ICs into a parallel technical track and measuring strategy, execution, and influence. 
 - [Radical Candor](https://blinki.st/0e6f8273219e) (book)
   - Giving people feedback is a kindness! Make sure you do it regularly and honestly 
-- [Reasons to step into a leadership role (or not)](https://leaddev.com/reasons-step-leadership-role-and-reasons-not)
-  - Are you interested in becoming a manager or stepping into a leadership role? What's driving you? Check out this great resource and make sure you're doing it for the right reasons
 - [Remote manager toolkit](https://github.com/alexwitherspoon/Remote-Manager-Toolkit)
   - @alexwitherspoon's fantastic resource on remote manager tools
 - [Resilient Management](https://abookapart.com/products/resilient-management) (book) 
   - Excellent book for managers looking to improve their team processes, how to handle tough conversations, and 1:1s. Has actionable templates and is a reasonable length!
-- [Staff archetypes](https://staffeng.com/guides/staff-archetypes) 
-  - Outlining the different types of staff engineers
 - [Tribal Leadership](https://www.blinkist.com/en/nc/reader/tribal-leadership-en) (book) 
   - Describing the 5 stages of a company's culture from toxic ("my life sucks and I can't do anything about it") to efficient and aspirational ("we are great and we are working towards a noble goal") 
 - [‘Ugh fields’, or why you can’t even bear to think about that task](https://medium.com/@robertwiblin/ugh-fields-or-why-you-can-t-even-bear-to-think-about-that-task-5941837dac62)
   - Check in on your reports on what they're avoiding as well as what they're doing
 - [What We Say Matters](https://blinki.st/0e6f8273219e) (book) 
   - We are still doing phrasing and it's important. Communication is so important as a manager
+  
+### Technical leadership outside of management
+- [Not all engineering leaders are managers](https://leaddev.com/not-all-engineering-leaders-are-engineering-managers) (article) 
+  - Stop pushing leaders into management if it doesn't suit them. This article discusses how to encourage ICs into a parallel technical track and measuring strategy, execution, and influence. 
+- [Reasons to step into a leadership role (or not)](https://leaddev.com/reasons-step-leadership-role-and-reasons-not)
+  - Are you interested in becoming a manager or stepping into a leadership role? What's driving you? Check out this great resource and make sure you're doing it for the right reasons
+- [Staff archetypes](https://staffeng.com/guides/staff-archetypes) 
+  - Outlining the different types of staff engineers
 
 ### Work
 - [Farsighted](https://blinki.st/0e6f8273219e) (book)
