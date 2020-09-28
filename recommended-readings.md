@@ -15,7 +15,7 @@ Here's a list of resources I have personally found helpful. I include the Blinki
   - How to be a great product manager 
 
 ### Management
-- [10 Expert Tips for Effective and Meaningful One-on-One Meetings](https://fellow.app/blog/2020/tips-for-effective-and-meaningful-one-on-one-meetings/)
+- [10 Expert Tips for Effective and Meaningful One-on-One Meetings](https://fellow.app/blog/2020/tips-for-effective-and-meaningful-one-on-one-meetings/) (article)
   - An article summery of a Twitter chat I participated in to discuss how to have effective 1:1 meetings 
 - [1:1 GitHub Actions](https://github.com/sophshep/one-on-one) (tools) 
   - @sophshep's 1:1 repos and automation tools via Actions
@@ -31,7 +31,7 @@ Here's a list of resources I have personally found helpful. I include the Blinki
   - Index on 6 different areas that can help you prevent making a cultural faux pas. Areas include: Power Distance Index (high versus low), Individualism Versus Collectivism, Masculinity Versus Femininity, Uncertainty Avoidance Index (high versus low), Long- Versus Short-Term Orientation, Indulgence Versus Restraint
 - [How to set goals with your engineers that don't totally suck](https://link.medium.com/2spD8XpLv3) (article)
   - My thoughts and structure on how to have effective goals and useful 1:1s
-- [Model, Document, Share](https://lethain.com/model-document-share/)
+- [Model, Document, Share](https://lethain.com/model-document-share/) (article)
   - How to lead without explicit power through modeling behavior you want to see, documenting best practices, and sharing 
 - [Multipliers](https://blinki.st/0e6f8273219e) (book)
   - Amplify your impact by making other people better so you can do other things 
@@ -43,7 +43,7 @@ Here's a list of resources I have personally found helpful. I include the Blinki
   - Excellent book for managers looking to improve their team processes, how to handle tough conversations, and 1:1s. Has actionable templates and is a reasonable length!
 - [Tribal Leadership](https://www.blinkist.com/en/nc/reader/tribal-leadership-en) (book) 
   - Describing the 5 stages of a company's culture from toxic ("my life sucks and I can't do anything about it") to efficient and aspirational ("we are great and we are working towards a noble goal") 
-- [‘Ugh fields’, or why you can’t even bear to think about that task](https://medium.com/@robertwiblin/ugh-fields-or-why-you-can-t-even-bear-to-think-about-that-task-5941837dac62)
+- [‘Ugh fields’, or why you can’t even bear to think about that task](https://medium.com/@robertwiblin/ugh-fields-or-why-you-can-t-even-bear-to-think-about-that-task-5941837dac62) (article) 
   - Check in on your reports on what they're avoiding as well as what they're doing
 - [What We Say Matters](https://blinki.st/0e6f8273219e) (book) 
   - We are still doing phrasing and it's important. Communication is so important as a manager
@@ -51,9 +51,9 @@ Here's a list of resources I have personally found helpful. I include the Blinki
 ### Technical leadership outside of management
 - [Not all engineering leaders are managers](https://leaddev.com/not-all-engineering-leaders-are-engineering-managers) (article) 
   - Stop pushing leaders into management if it doesn't suit them. This article discusses how to encourage ICs into a parallel technical track and measuring strategy, execution, and influence. 
-- [Reasons to step into a leadership role (or not)](https://leaddev.com/reasons-step-leadership-role-and-reasons-not)
+- [Reasons to step into a leadership role (or not)](https://leaddev.com/reasons-step-leadership-role-and-reasons-not) (article) 
   - Are you interested in becoming a manager or stepping into a leadership role? What's driving you? Check out this great resource and make sure you're doing it for the right reasons
-- [Staff archetypes](https://staffeng.com/guides/staff-archetypes) 
+- [Staff archetypes](https://staffeng.com/guides/staff-archetypes) (article) 
   - Outlining the different types of staff engineers
 
 ### Work
