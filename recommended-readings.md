@@ -35,6 +35,8 @@ Here's a list of resources I have personally found helpful. I include the Blinki
   - How to lead without explicit power through modeling behavior you want to see, documenting best practices, and sharing 
 - [Multipliers](https://blinki.st/0e6f8273219e) (book)
   - Amplify your impact by making other people better so you can do other things 
+- [Not all engineering leaders are managers](https://leaddev.com/not-all-engineering-leaders-are-engineering-managers) (article) 
+  - Stop pushing leaders into management if it doesn't suit them. This article discusses how to encourage ICs into a parallel technical track and measuring strategy, execution, and influence. 
 - [Radical Candor](https://blinki.st/0e6f8273219e) (book)
   - Giving people feedback is a kindness! Make sure you do it regularly and honestly 
 - [Reasons to step into a leadership role (or not)](https://leaddev.com/reasons-step-leadership-role-and-reasons-not)
