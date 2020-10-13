@@ -41,6 +41,8 @@ Here's a list of resources I have personally found helpful. I include the Blinki
   - @alexwitherspoon's fantastic resource on remote manager tools
 - [Resilient Management](https://abookapart.com/products/resilient-management) (book) 
   - Excellent book for managers looking to improve their team processes, how to handle tough conversations, and 1:1s. Has actionable templates and is a reasonable length!
+- [Transitioning to Meta-Management](https://larahogan.me/blog/transition-meta-management/) (article) 
+  - Article describing the changes going from line management to managing managers 
 - [Tribal Leadership](https://www.blinkist.com/en/nc/reader/tribal-leadership-en) (book) 
   - Describing the 5 stages of a company's culture from toxic ("my life sucks and I can't do anything about it") to efficient and aspirational ("we are great and we are working towards a noble goal") 
 - [‘Ugh fields’, or why you can’t even bear to think about that task](https://medium.com/@robertwiblin/ugh-fields-or-why-you-can-t-even-bear-to-think-about-that-task-5941837dac62) (article) 
