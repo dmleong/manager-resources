@@ -31,6 +31,8 @@ Here's a list of resources I have personally found helpful. I include the Blinki
   - Index on 6 different areas that can help you prevent making a cultural faux pas. Areas include: Power Distance Index (high versus low), Individualism Versus Collectivism, Masculinity Versus Femininity, Uncertainty Avoidance Index (high versus low), Long- Versus Short-Term Orientation, Indulgence Versus Restraint
 - [How to set goals with your engineers that don't totally suck](https://link.medium.com/2spD8XpLv3) (article)
   - My thoughts and structure on how to have effective goals and useful 1:1s
+- [Manager's Path](https://www.amazon.com/Managers-Path-Leaders-Navigating-Growth/dp/1491973897)
+  - Excellent book on the various different levels of management. Something I come back to at each level of my career
 - [Model, Document, Share](https://lethain.com/model-document-share/) (article)
   - How to lead without explicit power through modeling behavior you want to see, documenting best practices, and sharing 
 - [Multipliers](https://blinki.st/0e6f8273219e) (book)
@@ -51,6 +53,8 @@ Here's a list of resources I have personally found helpful. I include the Blinki
   - We are still doing phrasing and it's important. Communication is so important as a manager
   
 ### Technical leadership outside of management
+- [Manager's Path](https://www.amazon.com/Managers-Path-Leaders-Navigating-Growth/dp/1491973897)
+  - Highly recommend the section on how to be a tech lead 
 - [Not all engineering leaders are managers](https://leaddev.com/not-all-engineering-leaders-are-engineering-managers) (article) 
   - Stop pushing leaders into management if it doesn't suit them. This article discusses how to encourage ICs into a parallel technical track and measuring strategy, execution, and influence. 
 - [Reasons to step into a leadership role (or not)](https://leaddev.com/reasons-step-leadership-role-and-reasons-not) (article) 
