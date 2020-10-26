@@ -53,6 +53,8 @@ Here's a list of resources I have personally found helpful. I include the Blinki
   - We are still doing phrasing and it's important. Communication is so important as a manager
   
 ### Technical leadership outside of management
+- [Are You Sabotaging Your Career By Being Perceived as a Doer and Not a Leader?](https://medium.com/swlh/are-you-sabotaging-your-career-by-being-perceived-as-a-doer-and-not-a-leader-d7a5693d0e68) (article)
+  - Article helpful particularly for staff engineers or staff hopefuls who are struggling to move from doing the work to unblocking people and becoming a leader
 - [Manager's Path](https://www.amazon.com/Managers-Path-Leaders-Navigating-Growth/dp/1491973897)
   - Highly recommend the section on how to be a tech lead 
 - [Not all engineering leaders are managers](https://leaddev.com/not-all-engineering-leaders-are-engineering-managers) (article) 
