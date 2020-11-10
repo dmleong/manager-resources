@@ -25,6 +25,8 @@ Here's a list of resources I have personally found helpful. I include the Blinki
   - Giving tough feedback and having hard conversations is part of the job. Here's how to do it well
 - [Dream Teams](https://blinki.st/0e6f8273219e) (book)
   - How to build teams that actually work together 
+- [Emotional Agility](https://hbr.org/2013/11/emotional-agility) (article)
+  - Article on how leaders can embrace emotions and recognize that emotions and reactions shouldn't be the same. Especially important for those high-tension conversations! TED talk link is [here](https://www.ted.com/talks/susan_david_the_gift_and_power_of_emotional_courage). 
 - [Goal setting for managers](https://www.youtube.com/watch?v=np1rZvM9GD4&t=66s) (lightning talk)
   - Quick lightning talk on how to structure goals for someone who doesn't quite know what they want to do yet
 - [Hofstede's Cultural Dimensions](https://www.mindtools.com/pages/article/newLDR_66.htm)
