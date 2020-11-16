@@ -45,6 +45,8 @@ Here's a list of resources I have personally found helpful. I include the Blinki
   - @alexwitherspoon's fantastic resource on remote manager tools
 - [Resilient Management](https://abookapart.com/products/resilient-management) (book) 
   - Excellent book for managers looking to improve their team processes, how to handle tough conversations, and 1:1s. Has actionable templates and is a reasonable length!
+- [The invisible song of engineering leadership](https://leaddev.com/leadership-skills/invisible-song-engineering-leadership) (article)
+  - When technicality isn't enough to quantify what makes a good leader 
 - [Transitioning to Meta-Management](https://larahogan.me/blog/transition-meta-management/) (article) 
   - Article describing the changes going from line management to managing managers 
 - [Tribal Leadership](https://www.blinkist.com/en/nc/reader/tribal-leadership-en) (book) 
