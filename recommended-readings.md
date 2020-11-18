@@ -65,6 +65,8 @@ Here's a list of resources I have personally found helpful. I include the Blinki
   - Stop pushing leaders into management if it doesn't suit them. This article discusses how to encourage ICs into a parallel technical track and measuring strategy, execution, and influence. 
 - [Reasons to step into a leadership role (or not)](https://leaddev.com/reasons-step-leadership-role-and-reasons-not) (article) 
   - Are you interested in becoming a manager or stepping into a leadership role? What's driving you? Check out this great resource and make sure you're doing it for the right reasons
+- [The reality of being a principal engineer](https://leaddev.com/career-paths-progression-promotion/reality-being-principal-engineer) (article)
+  - What's it really like to be a principal engineer? Discussing the influence needed to maintain a principal engineer position, rather than focusing on the code
 - [Staff archetypes](https://staffeng.com/guides/staff-archetypes) (article) 
   - Outlining the different types of staff engineers
 
