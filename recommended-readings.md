@@ -9,6 +9,10 @@ Here's a list of resources I have personally found helpful. I include the Blinki
   - Being "busy" is not usually a good thing these days 
 - [Panda Planner](http://pandaplanner.com) (tool)
   - Physical day planner that helps balance priorities with mental health
+  
+### Inclusivity
+- [When Black Women Go From Office Pet to Office Threat](https://zora.medium.com/when-black-women-go-from-office-pet-to-office-threat-83bde710332e)
+  - First your boss loves you, then they dislike you. Here’s how Black women can manage the icy transition.
 
 ### Product Management
 - [Inspired](https://blinki.st/0e6f8273219e) (book)
