@@ -11,6 +11,7 @@ Here's a list of resources I have personally found helpful. I include the Blinki
   - Physical day planner that helps balance priorities with mental health
   
 ### Inclusivity
+- [How to grow emotionally intelligent engineering teams](https://pbell.wistia.com/medias/k8htv3947p)
 - [When Black Women Go From Office Pet to Office Threat](https://zora.medium.com/when-black-women-go-from-office-pet-to-office-threat-83bde710332e)
   - First your boss loves you, then they dislike you. Here’s how Black women can manage the icy transition.
 
