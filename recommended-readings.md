@@ -75,6 +75,10 @@ Here's a list of resources I have personally found helpful. I include the Blinki
 - [Staff archetypes](https://staffeng.com/guides/staff-archetypes) (article) 
   - Outlining the different types of staff engineers
 
+### Tools
+- [Remote manager toolkit](https://github.com/alexwitherspoon/Remote-Manager-Toolkit) 
+  - @alexwitherspoon's templates, examples, and things that could be downloaded, cloned, forked and used to manage remote teams with elements of real-time and asynchronous approaches and the Git change control system.
+
 ### Work
 - [Farsighted](https://blinki.st/0e6f8273219e) (book)
   - How to make better decisions 
