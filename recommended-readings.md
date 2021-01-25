@@ -52,6 +52,8 @@ Here's a list of resources I have personally found helpful. I include the Blinki
   - Excellent book for managers looking to improve their team processes, how to handle tough conversations, and 1:1s. Has actionable templates and is a reasonable length!
 - [The invisible song of engineering leadership](https://leaddev.com/leadership-skills/invisible-song-engineering-leadership) (article)
   - When technicality isn't enough to quantify what makes a good leader 
+- [Three crucial skills that leaders must develop to become executives](https://theskip.substack.com/p/three-crucial-skills-that-leaders) (article)
+  - How soft skills become crucial at the higher levels of leadership
 - [Transitioning to Meta-Management](https://larahogan.me/blog/transition-meta-management/) (article) 
   - Article describing the changes going from line management to managing managers 
 - [Tribal Leadership](https://www.blinkist.com/en/nc/reader/tribal-leadership-en) (book) 
