@@ -62,6 +62,8 @@ Here's a list of resources I have personally found helpful. I include the Blinki
   - Check in on your reports on what they're avoiding as well as what they're doing
 - [What We Say Matters](https://blinki.st/0e6f8273219e) (book) 
   - We are still doing phrasing and it's important. Communication is so important as a manager
+- [You're not just a manager, you're also a boss](https://leaddev.com/professional-development/youre-not-just-manager-youre-also-boss) (article) 
+  - Article on keeping power dynamics at the front of your mind as your power and influence grows. (CW: discusses insurrection attempt at the US Capital on Jan 6, 2021)
   
 ### Technical leadership outside of management
 - [Are You Sabotaging Your Career By Being Perceived as a Doer and Not a Leader?](https://medium.com/swlh/are-you-sabotaging-your-career-by-being-perceived-as-a-doer-and-not-a-leader-d7a5693d0e68) (article)
