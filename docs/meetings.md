@@ -2,7 +2,17 @@
 
 I'm a strong believer in having [useful, short, productive meetings](https://www.fearlessculture.design/blog-posts/the-ultimate-guide-to-successful-meetings), in-person/video meetings for clarity and emotional connection, and making sure everything is well-documented. I value your time as well as my own, so **each meeting starts and ends on time**, and will be facilitated and have notes at the end. I also welcome longer one-off meetings! If there's something you need help with right now, please don't hesitate to throw something on my calendar.
 
-![Screenshot 2019-08-30 08 55 19](https://user-images.githubusercontent.com/2171822/64035503-d7f5dc80-cb05-11e9-9fb9-c8b580273b0f.png)
+| Meeting                      | Length                                                                            | Purpose                                                                                                         |
+|------------------------------|-----------------------------------------------------------------------------------|-----------------------------------------------------------------------------------------------------------------|
+| Stand up                     | 10 min, 3x week in person and/or Geekbot                                          | Led by a rotating leader, status updates, bring up blockers, human connection                                   |
+| Weekly team sync             | 30 min every week                                                                 | Sprint planning, task planning, bring up blockers                                                               |
+| Retrospective                | 1 hour/month + async issue                                                        | Pulse on how we're doing and chance to improve iteratively. Can also be used for mid and end projects           |
+| Office hours                 | 30 min, 2x a month                                                                | Talk with external teams, open forum to answer questions about team's area of responsibility                    |
+| Coffee talk                  | 30 min, 2x a month                                                                | Social time (optional)                                                                                          |
+| Project kickoff              | 1 hour, as needed                                                                 | Project alignment across stakeholders and engineers, define roles, schedule, and next steps                     |
+| Strategy or working sessions | 1 hour-3 hours, as needed                                                         | Workshopping ideas with room to explore and collaborate on ideas. Break sessions into 1 hour chunks with breaks |
+| 1:1s                         | 30 min every week to 1 hour every week. Season to taste based on individual needs | Work on goals, human connection, provide feedback                                                               |
+| Executive briefings          | Variable                                                                          | Bring executives up to speed on a project, be informed on company direction, bring up blockers                  |
 
 ## 1:1s
 
