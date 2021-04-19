@@ -2,6 +2,8 @@
 
 I'm a strong believer in having [useful, short, productive meetings](https://www.fearlessculture.design/blog-posts/the-ultimate-guide-to-successful-meetings), in-person/video meetings for clarity and emotional connection, and making sure everything is well-documented. I value your time as well as my own, so **each meeting starts and ends on time**, and will be facilitated and have notes at the end. I also welcome longer one-off meetings! If there's something you need help with right now, please don't hesitate to throw something on my calendar.
 
+I go more into this topic in-depth in [this article](https://leaddev.com/culture-engagement-motivation/how-have-meetings-dont-suck-much)
+
 | Meeting                      | Length                                                                            | Purpose                                                                                                         |
 |------------------------------|-----------------------------------------------------------------------------------|-----------------------------------------------------------------------------------------------------------------|
 | Stand up                     | 10 min, 3x week in person and/or Geekbot                                          | Led by a rotating leader, status updates, bring up blockers, human connection                                   |
