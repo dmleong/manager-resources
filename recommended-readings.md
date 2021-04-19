@@ -38,6 +38,8 @@ Here's a list of resources I have personally found helpful. I include the Blinki
   - Index on 6 different areas that can help you prevent making a cultural faux pas. Areas include: Power Distance Index (high versus low), Individualism Versus Collectivism, Masculinity Versus Femininity, Uncertainty Avoidance Index (high versus low), Long- Versus Short-Term Orientation, Indulgence Versus Restraint
 - [How to avoid the growing pains of communicating at scale](https://leaddev.com/communication-relationships/how-avoid-growing-pains-communicating-scale) (article) 
   - Great actionable advice on pitfalls to avoid when growing and trying to communicate change 
+- [How to have meetings that don't suck (as much)](https://leaddev.com/culture-engagement-motivation/how-have-meetings-dont-suck-much)
+  - Tips and tricks on how to run more effective meetings
 - [How to set goals with your engineers that don't totally suck](https://link.medium.com/2spD8XpLv3) (article)
   - My thoughts and structure on how to have effective goals and useful 1:1s
 - [Manager's Path](https://www.amazon.com/Managers-Path-Leaders-Navigating-Growth/dp/1491973897)
