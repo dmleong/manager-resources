@@ -72,6 +72,8 @@ Here's a list of resources I have personally found helpful. I include the Blinki
   - Article on keeping power dynamics at the front of your mind as your power and influence grows. (CW: discusses insurrection attempt at the US Capital on Jan 6, 2021)
   
 ### Technical leadership outside of management
+- [An incomplete list of skills senior engineers need beyond coding](https://skamille.medium.com/an-incomplete-list-of-skills-senior-engineers-need-beyond-coding-8ed4a521b29f) 
+  - A listicle of great leadership and communication skills needed beyond coding
 - [Are You Sabotaging Your Career By Being Perceived as a Doer and Not a Leader?](https://medium.com/swlh/are-you-sabotaging-your-career-by-being-perceived-as-a-doer-and-not-a-leader-d7a5693d0e68) (article)
   - Article helpful particularly for staff engineers or staff hopefuls who are struggling to move from doing the work to unblocking people and becoming a leader
 - [Manager's Path](https://www.amazon.com/Managers-Path-Leaders-Navigating-Growth/dp/1491973897)
