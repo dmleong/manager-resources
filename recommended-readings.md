@@ -42,6 +42,8 @@ Here's a list of resources I have personally found helpful. I include the Blinki
   - Tips and tricks on how to run more effective meetings
 - [How to set goals with your engineers that don't totally suck](https://link.medium.com/2spD8XpLv3) (article)
   - My thoughts and structure on how to have effective goals and useful 1:1s
+- [Interview with Danielle Leong: Ask vs Guess culture](https://fellow.app/supermanagers/danielle-leong-github-ask-versus-guess-culture/) (podcast)
+  - Podcast that I'm on discussing how to improve psychological safety and emotional intelligence on your teams 
 - [Manager's Path](https://www.amazon.com/Managers-Path-Leaders-Navigating-Growth/dp/1491973897)
   - Excellent book on the various different levels of management. Something I come back to at each level of my career
 - [Model, Document, Share](https://lethain.com/model-document-share/) (article)
