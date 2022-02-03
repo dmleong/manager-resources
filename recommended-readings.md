@@ -11,8 +11,8 @@ Here's a list of resources I have personally found helpful. I include the Blinki
   - Physical day planner that helps balance priorities with mental health
   
 ### Inclusivity (more found on [my website](https://danielleleong.com/recommended-readings/))
-- [How to grow emotionally intelligent engineering teams](https://pbell.wistia.com/medias/k8htv3947p)
-- [When Black Women Go From Office Pet to Office Threat](https://zora.medium.com/when-black-women-go-from-office-pet-to-office-threat-83bde710332e)
+- [How to grow emotionally intelligent engineering teams](https://pbell.wistia.com/medias/k8htv3947p) (talk)
+- [When Black Women Go From Office Pet to Office Threat](https://zora.medium.com/when-black-women-go-from-office-pet-to-office-threat-83bde710332e) (article)
   - First your boss loves you, then they dislike you. Here’s how Black women can manage the icy transition.
 
 ### Product Management
@@ -34,17 +34,17 @@ Here's a list of resources I have personally found helpful. I include the Blinki
   - Article on how leaders can embrace emotions and recognize that emotions and reactions shouldn't be the same. Especially important for those high-tension conversations! TED talk link is [here](https://www.ted.com/talks/susan_david_the_gift_and_power_of_emotional_courage). 
 - [Goal setting for managers](https://www.youtube.com/watch?v=np1rZvM9GD4&t=66s) (lightning talk)
   - Quick lightning talk on how to structure goals for someone who doesn't quite know what they want to do yet
-- [Hofstede's Cultural Dimensions](https://www.mindtools.com/pages/article/newLDR_66.htm)
+- [Hofstede's Cultural Dimensions](https://www.mindtools.com/pages/article/newLDR_66.htm) (article)
   - Index on 6 different areas that can help you prevent making a cultural faux pas. Areas include: Power Distance Index (high versus low), Individualism Versus Collectivism, Masculinity Versus Femininity, Uncertainty Avoidance Index (high versus low), Long- Versus Short-Term Orientation, Indulgence Versus Restraint
 - [How to avoid the growing pains of communicating at scale](https://leaddev.com/communication-relationships/how-avoid-growing-pains-communicating-scale) (article) 
   - Great actionable advice on pitfalls to avoid when growing and trying to communicate change 
-- [How to have meetings that don't suck (as much)](https://leaddev.com/culture-engagement-motivation/how-have-meetings-dont-suck-much)
+- [How to have meetings that don't suck (as much)](https://leaddev.com/culture-engagement-motivation/how-have-meetings-dont-suck-much) (article by me)
   - Tips and tricks on how to run more effective meetings
 - [How to set goals with your engineers that don't totally suck](https://link.medium.com/2spD8XpLv3) (article)
   - My thoughts and structure on how to have effective goals and useful 1:1s
 - [Interview with Danielle Leong: Ask vs Guess culture](https://fellow.app/supermanagers/danielle-leong-github-ask-versus-guess-culture/) (podcast)
   - Podcast that I'm on discussing how to improve psychological safety and emotional intelligence on your teams 
-- [Manager's Path](https://www.amazon.com/Managers-Path-Leaders-Navigating-Growth/dp/1491973897)
+- [Manager's Path](https://www.amazon.com/Managers-Path-Leaders-Navigating-Growth/dp/1491973897) (book)
   - Excellent book on the various different levels of management. Something I come back to at each level of my career
 - [Model, Document, Share](https://lethain.com/model-document-share/) (article)
   - How to lead without explicit power through modeling behavior you want to see, documenting best practices, and sharing 
@@ -52,13 +52,13 @@ Here's a list of resources I have personally found helpful. I include the Blinki
   - Amplify your impact by making other people better so you can do other things 
 - [Radical Candor](https://blinki.st/0e6f8273219e) (book)
   - Giving people feedback is a kindness! Make sure you do it regularly and honestly 
-- [Remote manager toolkit](https://github.com/alexwitherspoon/Remote-Manager-Toolkit)
+- [Remote manager toolkit](https://github.com/alexwitherspoon/Remote-Manager-Toolkit) (tool)
   - @alexwitherspoon's fantastic resource on remote manager tools
 - [Resilient Management](https://abookapart.com/products/resilient-management) (book) 
   - Excellent book for managers looking to improve their team processes, how to handle tough conversations, and 1:1s. Has actionable templates and is a reasonable length!
 - [The invisible song of engineering leadership](https://leaddev.com/leadership-skills/invisible-song-engineering-leadership) (article)
   - When technicality isn't enough to quantify what makes a good leader
-- [The Ultimate Guide to Successful Meetings](https://www.fearlessculture.design/blog-posts/the-ultimate-guide-to-successful-meetings)
+- [The Ultimate Guide to Successful Meetings](https://www.fearlessculture.design/blog-posts/the-ultimate-guide-to-successful-meetings) (aricle)
   - How to have successful meetings 
 - [Three crucial skills that leaders must develop to become executives](https://theskip.substack.com/p/three-crucial-skills-that-leaders) (article)
   - How soft skills become crucial at the higher levels of leadership
@@ -74,13 +74,13 @@ Here's a list of resources I have personally found helpful. I include the Blinki
   - Article on keeping power dynamics at the front of your mind as your power and influence grows. (CW: discusses insurrection attempt at the US Capital on Jan 6, 2021)
   
 ### Technical leadership outside of management
-- [An incomplete list of skills senior engineers need beyond coding](https://skamille.medium.com/an-incomplete-list-of-skills-senior-engineers-need-beyond-coding-8ed4a521b29f) 
+- [An incomplete list of skills senior engineers need beyond coding](https://skamille.medium.com/an-incomplete-list-of-skills-senior-engineers-need-beyond-coding-8ed4a521b29f)  (article)
   - A listicle of great leadership and communication skills needed beyond coding
 - [Are You Sabotaging Your Career By Being Perceived as a Doer and Not a Leader?](https://medium.com/swlh/are-you-sabotaging-your-career-by-being-perceived-as-a-doer-and-not-a-leader-d7a5693d0e68) (article)
   - Article helpful particularly for staff engineers or staff hopefuls who are struggling to move from doing the work to unblocking people and becoming a leader
 - [Becoming a Better Writer in Tech](https://blog.pragmaticengineer.com/becoming-a-better-writer-in-tech/) (article)
   - Writing is a crucial part of growing your career. Being a clear and crisp communicator helps in all aspects of you job. Great article with tools and tips on how to become a better writer 
-- [Manager's Path](https://www.amazon.com/Managers-Path-Leaders-Navigating-Growth/dp/1491973897)
+- [Manager's Path](https://www.amazon.com/Managers-Path-Leaders-Navigating-Growth/dp/1491973897) (book)
   - Highly recommend the section on how to be a tech lead 
 - [Not all engineering leaders are managers](https://leaddev.com/not-all-engineering-leaders-are-engineering-managers) (article) 
   - Stop pushing leaders into management if it doesn't suit them. This article discusses how to encourage ICs into a parallel technical track and measuring strategy, execution, and influence. 
@@ -94,9 +94,9 @@ Here's a list of resources I have personally found helpful. I include the Blinki
   - Outlining the different types of staff engineers
 
 ### Tools
-- [Plucky 1:1 cards](https://shop.beplucky.com/products/the-plucky-1-1-starter-pack)
+- [Plucky 1:1 cards](https://shop.beplucky.com/products/the-plucky-1-1-starter-pack) (tool)
   - Deck of cards with questions to ask in 1:1s to inspire deeper conversation around individuals, teams, and organizations 
-- [Remote manager toolkit](https://github.com/alexwitherspoon/Remote-Manager-Toolkit) 
+- [Remote manager toolkit](https://github.com/alexwitherspoon/Remote-Manager-Toolkit) (tool)
   - @alexwitherspoon's templates, examples, and things that could be downloaded, cloned, forked and used to manage remote teams with elements of real-time and asynchronous approaches and the Git change control system.
 
 ### Work
