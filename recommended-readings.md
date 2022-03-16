@@ -64,8 +64,6 @@ Here's a list of resources I have personally found helpful. I include the Blinki
   - How to have successful meetings 
 - [Three crucial skills that leaders must develop to become executives](https://theskip.substack.com/p/three-crucial-skills-that-leaders) (article)
   - How soft skills become crucial at the higher levels of leadership
-- [Toto Wolff and the Mercedes Formula One Team](https://www.hbs.edu/faculty/Pages/item.aspx?num=61978) (case study)
-  - Harvard Business School case study on the leadership skills of Toto Wolff and the Mercedes F1 team. High emphasis on people management and maintaining excellence. Definitely recommend checking out the team values and ethos in the exhibits at the end
 - [Transitioning to Meta-Management](https://larahogan.me/blog/transition-meta-management/) (article) 
   - Article describing the changes going from line management to managing managers 
 - [Tribal Leadership](https://www.blinkist.com/en/nc/reader/tribal-leadership-en) (book) 
