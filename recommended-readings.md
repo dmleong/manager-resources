@@ -46,6 +46,8 @@ Here's a list of resources I have personally found helpful. I include the Blinki
   - Great list of questions to add to your 1:1s with your staff engineers 
 - [Interview with Danielle Leong: Ask vs Guess culture](https://fellow.app/supermanagers/danielle-leong-github-ask-versus-guess-culture/) (podcast)
   - Podcast that I'm on discussing how to improve psychological safety and emotional intelligence on your teams 
+- [Kübler-Ross Challenge Curve](https://www.ekrfoundation.org/5-stages-of-grief/change-curve/) (diagram)
+  - Creators of the 5 stages of grief, this outlines the 7 stages of dealing with organizational change 
 - [Manager's Path](https://www.amazon.com/Managers-Path-Leaders-Navigating-Growth/dp/1491973897) (book)
   - Excellent book on the various different levels of management. Something I come back to at each level of my career
 - [Model, Document, Share](https://lethain.com/model-document-share/) (article)
