@@ -8,7 +8,7 @@ I realize that as a manager there is a power imbalance between us. I do my best 
 
 ## Availability
 
-I am a strong believer in work/life balance. **I do not expect you to respond to pings (with the exception of oncall rotation) unless it is normal business hours in your time zone.** I highly discourage working on the weekend! (side projects are ok) I will not respond to pings on the weekend or during the evenings unless it's urgent. I encourage everyone to take liberal use of the Do Not Disturb feature. Remember: newer teammates may feel they need to work on weekends if they see you doing it!
+I am a strong believer in work/life equlibrium. Sometimes we need to sprint, but rest should always be worked into the schedule afterwards. **I do not expect you to respond to pings (with the exception of oncall rotation) unless it is normal business hours in your time zone.** I highly discourage working on the weekend! (side projects are ok) I will not respond to pings on the weekend or during the evenings unless it's urgent. I encourage everyone to take liberal use of the Do Not Disturb feature. Remember: newer teammates may feel they need to work on weekends if they see you doing it!
 
 ## Expenses and Requests
 
