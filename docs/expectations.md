@@ -8,6 +8,13 @@
 
 **I expect you to be respectful of one another's lived experiences.** I hate to use a buzzword, but diversity & inclusion is super important to making good teams. That means sometimes misunderstandings happen! But I expect you to be respectful of someone's lived experiences. However, keep in mind that I value the safety of the marginalized over the hurt feelings of those with more privilege. Power dynamics in terms of race, gender and gender expression, sexual identity or expression, class, disability, religion, age, body size, etc will always be kept in mind. **Clarifying questions: good. Dismissing someone's lived experiences: bad.**
 
+## Managers 
+
+Managing managers is different from managing individual contributors. I expect my managers to create safe, productive environments for their teams. Managers should have a good understanding of the projects that their teams are working on, have regular career conversations with all members of their teams (not just the high performing ones!), and provide constructive feedback for their engineers. Managers should collaborate well with their fellow managers to create cross-team opportunities for their teams and work together with their product manager counterparts to create clear, transparent, sustainable roadmaps.
+
+I expect my managers to work with me to identify concerns early on and collaborate together on potential solutions. I will also work with my managers on their own career goals and have regular check-ins to make sure that they continue to grow.
+
+
 ## High performers
 
 While most of the people on my teams end up being high performers, I think it's valuable to document what I've found useful.

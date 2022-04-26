@@ -14,6 +14,7 @@ Check out my thoughts on [goals and effective 1:1s](https://medium.com/@tsunamin
   - [Values](docs/about.md#values)
 - [Expectations](docs/expectations.md#expectations) 
   - [High performers](docs/expectations.md#high-performers)
+  - [Managing managers](docs/expectations.md#managers)
   - [How I will provide feedback to you](docs/expectations.md#how-i-will-provide-feedback-to-you)
 - [Housekeeping](docs/housekeeping.md)
   - [Feedback for me](docs/housekeeping.md#feedback-for-me)
