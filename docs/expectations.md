@@ -8,6 +8,23 @@
 
 **I expect you to be respectful of one another's lived experiences.** I hate to use a buzzword, but diversity & inclusion is super important to making good teams. That means sometimes misunderstandings happen! But I expect you to be respectful of someone's lived experiences. However, keep in mind that I value the safety of the marginalized over the hurt feelings of those with more privilege. Power dynamics in terms of race, gender and gender expression, sexual identity or expression, class, disability, religion, age, body size, etc will always be kept in mind. **Clarifying questions: good. Dismissing someone's lived experiences: bad.**
 
+## Managers 
+
+Managing managers is different from managing individual contributors. I expect my managers to create safe, productive environments for their teams. My general expectations are: 
+
+- I believe in a balance of autonomy and consistency. I will do my best to communicate my desired outcome and context for why it's important and allow managers to find out what works best for them and their teams. 
+
+- I will do my best to continue to work on your career. Managers don't often get enough feedback on their own careers and it can feel isolating. I will work with you in our 1:1s to further your career, not just have a status update on how your teams are doing. 
+
+- I expect managers to have a clear understanding of the progress of their teams' current projects. You should be able to clearly communicate how projects are going, what needs to be done, and any roadblocks that are happening. 
+
+- I prefer managers to bring up issues when they are small before they become big issues. I like to collaborate together on solutions or provide opportunities for growth. If something catches us by surprise, this is a blameless culture. Let's work the problem first, provide constructive feedback with an eye to fixing systems after.
+
+- I like to have regular skip level 1:1s with your teams to gather themes and feedback from the organization. This isn't to undermine anything you've done, but to make sure that the overall health of the organization is going well. 
+
+- I expect managers to work with one another to provide cross-pollination opportunities for their engineers. Teams may be too small to provide the right opportunties for everyone, so I expect managers to work together to share best practices as well as opportunities for their people in other parts of the org. We are all part of the same organization working towards the same goal. It doesn't do anybody any good to hoard knowledge or people when it makes the entire org suffer. 
+
+
 ## High performers
 
 While most of the people on my teams end up being high performers, I think it's valuable to document what I've found useful.
