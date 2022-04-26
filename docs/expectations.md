@@ -2,7 +2,7 @@
 
 **I expect you, dear reader, to give me your best effort each day.** I understand some days are just not working out. That's totes fine. I want to work with you to make sure that you have a reasonable workload with reasonable deadlines and you are taking care of yourself. If you aren't able to give it your all for whatever reason, let's talk about it sooner rather than later!
 
-**I expect you to show up on time and be present at meetings.** I hate useless meetings and promise to keep them to a minimum. There will always be an agenda. They'll probably always be remote meetings. There will be a facilitator and a notetaker. So put on some pj pants and hop on video and be fully present for the short time we have together.
+**I expect you to show up on time and be present at meetings.** I hate useless meetings and promise to keep them to a minimum. There will always be an agenda. They'll probably always be remote meetings. There will be a facilitator and a notetaker. So put on some pj pants and hop on video and be fully present for the short time we have together. More thoughts on meetings [here](meetings.md)
 
 **I expect you to help out your fellow teammates if they need help.** We all have trouble here and there and no one likes to feel like a burden! If someone is asking for help then let's help teach one another the skills we need to solve the problem.
 
@@ -16,9 +16,9 @@ As a high performer myself, I find that the best way to stifle someone's passion
 
 - I expect high performers to motivate themselves! If you aren't motivated, then something's wrong and let's work on it together. Sometimes it's a structural problem, sometimes it's a personal problem. Whatever it is, let's talk it through and work on a solution together.
 
-- I will do my best to guide you to new challenges. Sometimes that involves challenging you to improve your interpersonal skills with other people! These are just as valuable as technical skills.
+- I will do my best to guide you to new challenges. Sometimes that involves challenging you to improve your interpersonal skills with other people! These are just as valuable as technical skills. Depending on your level, it may be necessary to focus on interpersonal and leadership skills over technical, which can be uncomfortable.
 
-- I will try very hard not to spring any last minute or unreasonable requests on you. It's pretty rude to constantly have to fight fires and it's bad for people's mental health to do so.
+- I will try very hard not to spring any last minute or unreasonable requests on you. It's pretty rude to constantly have to fight fires and it's bad for people's mental health to do so. If this does happen, I will do my best to discuss the context behind the request with you.
 
 - I'll try to request things rather than tell you to do them. On the rare occasion I _require_ you to do something, I'll do my best to explain why it's important, the timeline it's needed, and who the request is coming from.
 

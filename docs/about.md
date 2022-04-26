@@ -5,8 +5,6 @@ I guess this is why you're here?
 
 I often ask people "What is your purpose in life?" I think it's a very telling question and I hope a thought-provoking one! For me, the answer has been pretty consistent for the past few years: **My purpose in life is to help people become the best they can be.**
 
-I have always had a strong drive to help people and do the right thing. This often gets me into trouble more often than I like to admit (if it's not a HELL YES, it's a no), but I rarely regret it. I have a very strong moral compass, which can make it either easy or difficult to work with me! Doing the right thing is often hard, but it's the right thing.
-
 [Radical Candor](https://www.blinkist.com/en/books/radical-candor-en/) is perhaps the best resource to understand my approach to management and feedback. I believe in giving timely, honest feedback _because I care about you._ I don't believe in surprising people at review time with bad feedback. Your performance reviews should be underwhelming events because you should always know where you stand with me at all times. You can read more about my thoughts on feedback [here](https://medium.com/@tsunamino/setting-goals-with-your-engineers-that-dont-completely-suck-cb76b87e4275).
 
 ## My role
@@ -44,13 +42,13 @@ I value genuine efforts to improve over using the "correct" words all the time.
 
 I value the safety of the marginalized over the hurt feelings of the privileged.
 
-I value context.
+I value context and transparency.
 
 I value consent and boundaries.
 
 I value collaboration and clear communication over ego (including my own).
 
-I value mental health over shipping velocity.
+I value sustainable work/life equilibrium.
 
 I value shipping iteratively and quickly.
 
@@ -62,7 +60,7 @@ I value getting things done.
 
 I value having fun! We do serious things, but we don't necessarily have to be serious all the time.
 
-I understand that it can be difficult to trust a new manager. You've probably been burned before! But hopefully laying out my values can help you understand where I'm coming from. I will always tell you as much information as I know and am able to tell you. I will always care about you as a person and your wellbeing. I will always fight for what is the right thing to do. My values are the most important thing to me.
+I understand that it can be difficult to trust a new manager. You've probably been burned before! But hopefully laying out my values can help you understand where I'm coming from. I will always tell you as much information as I know and am able to tell you and work with you to understand the context behind decisions. I will always care about you as a person and your wellbeing. My values are the most important thing to me.
 
 ## Things I'm working on
 

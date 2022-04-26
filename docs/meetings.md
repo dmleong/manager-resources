@@ -75,9 +75,9 @@ All members of the team are expected to attend the synchronous retrospective.
 
 ## Office Hours
 
-Twice a month, we have open office hours on half an hour to an hour. Anyone and everyone is welcome to join us and ask questions regarding abuse vectors, product features, or just to hang out. We often invite guests from other companies to join us so we can learn from their processes.
+Twice a month, we have open office hours for half an hour to an hour. Anyone and everyone is welcome to join us and ask questions regarding abuse vectors, product features, or just to hang out. We often invite guests from other companies to join us so we can learn from their processes.
 
-All members of the team are expected to attend.
+All members of the team are encouraged to attend.
 
 ## Coffee Talk
 
