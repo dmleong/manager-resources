@@ -10,9 +10,19 @@
 
 ## Managers 
 
-Managing managers is different from managing individual contributors. I expect my managers to create safe, productive environments for their teams. Managers should have a good understanding of the projects that their teams are working on, have regular career conversations with all members of their teams (not just the high performing ones!), and provide constructive feedback for their engineers. Managers should collaborate well with their fellow managers to create cross-team opportunities for their teams and work together with their product manager counterparts to create clear, transparent, sustainable roadmaps.
+Managing managers is different from managing individual contributors. I expect my managers to create safe, productive environments for their teams. My general expectations are: 
 
-I expect my managers to work with me to identify concerns early on and collaborate together on potential solutions. I will also work with my managers on their own career goals and have regular check-ins to make sure that they continue to grow.
+- I believe in a balance of autonomy and consistency. I will do my best to communicate my desired outcome and context for why it's important and allow managers to find out what works best for them and their teams. 
+
+- I will do my best to continue to work on your career. Managers don't often get enough feedback on their own careers and it can feel isolating. I will work with you in our 1:1s to further your career, not just have a status update on how your teams are doing. 
+
+- I expect managers to have a clear understanding of the progress of their teams' current projects. You should be able to clearly communicate how projects are going, what needs to be done, and any roadblocks that are happening. 
+
+- I prefer managers to bring up issues when they are small before they become big issues. I like to collaborate together on solutions or provide opportunities for growth. If something catches us by surprise, this is a blameless culture. Let's work the problem first, provide constructive feedback with an eye to fixing systems after.
+
+- I like to have regular skip level 1:1s with your teams to gather themes and feedback from the organization. This isn't to undermine anything you've done, but to make sure that the overall health of the organization is going well. 
+
+- I expect managers to work with one another to provide cross-pollination opportunities for their engineers. Teams may be too small to provide the right opportunties for everyone, so I expect managers to work together to share best practices as well as opportunities for their people in other parts of the org. We are all part of the same organization working towards the same goal. It doesn't do anybody any good to hoard knowledge or people when it makes the entire org suffer. 
 
 
 ## High performers
