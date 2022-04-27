@@ -60,6 +60,8 @@ Here's a list of resources I have personally found helpful. I include the Blinki
   - @alexwitherspoon's fantastic resource on remote manager tools
 - [Resilient Management](https://abookapart.com/products/resilient-management) (book) 
   - Excellent book for managers looking to improve their team processes, how to handle tough conversations, and 1:1s. Has actionable templates and is a reasonable length!
+- [The Big Idea: Before You Make That Big Decision...](https://hbr.org/2011/06/the-big-idea-before-you-make-that-big-decision) (article) 
+  - One of the Harvard Business Review's top articles, a checklist of 12 questions that any leader should ask before making a big decision 
 - [The invisible song of engineering leadership](https://leaddev.com/leadership-skills/invisible-song-engineering-leadership) (article)
   - When technicality isn't enough to quantify what makes a good leader
 - [The Ultimate Guide to Successful Meetings](https://www.fearlessculture.design/blog-posts/the-ultimate-guide-to-successful-meetings) (aricle)
