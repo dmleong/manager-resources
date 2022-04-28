@@ -109,6 +109,8 @@ Here's a list of resources I have personally found helpful. I include the Blinki
 ### Tools
 - [Plucky 1:1 cards](https://shop.beplucky.com/products/the-plucky-1-1-starter-pack) (tool)
   - Deck of cards with questions to ask in 1:1s to inspire deeper conversation around individuals, teams, and organizations 
+- [Reader Mode](https://readermode.io/) (chrome extension)
+ -  Chrome extension to help make raeding longform articles easier. Includes dark mode, dyslexia fonts, and a focus ruler
 - [Remote manager toolkit](https://github.com/alexwitherspoon/Remote-Manager-Toolkit) (tool)
   - @alexwitherspoon's templates, examples, and things that could be downloaded, cloned, forked and used to manage remote teams with elements of real-time and asynchronous approaches and the Git change control system.
 
