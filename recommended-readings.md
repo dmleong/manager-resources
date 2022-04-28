@@ -16,6 +16,8 @@ Here's a list of resources I have personally found helpful. I include the Blinki
   - First your boss loves you, then they dislike you. Here’s how Black women can manage the icy transition.
 
 ## Decision making 
+- [Make Better Decisions by Challenging Your Expectations](https://hbr.org/2022/04/make-better-decisions-by-challenging-your-expectations?utm_medium=email&utm_source=newsletter_daily&utm_campaign=dailyalert_actsubs&utm_content=signinnudge&deliveryName=DM189727) (article)
+  - Using the BIAS framework (behavior, information, analysis, structure) to analyze your biases and make a good decision 
 - [The Big Idea: Before You Make That Big Decision...](https://hbr.org/2011/06/the-big-idea-before-you-make-that-big-decision) (article) 
   - One of the Harvard Business Review's top articles, a checklist of 12 questions that any leader should ask before making a big decision 
 
