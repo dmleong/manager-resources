@@ -15,6 +15,13 @@ Here's a list of resources I have personally found helpful. I include the Blinki
 - [When Black Women Go From Office Pet to Office Threat](https://zora.medium.com/when-black-women-go-from-office-pet-to-office-threat-83bde710332e) (article)
   - First your boss loves you, then they dislike you. Here’s how Black women can manage the icy transition.
 
+## Decision making 
+- [Make Better Decisions by Challenging Your Expectations](https://hbr.org/2022/04/make-better-decisions-by-challenging-your-expectations?utm_medium=email&utm_source=newsletter_daily&utm_campaign=dailyalert_actsubs&utm_content=signinnudge&deliveryName=DM189727) (article)
+  - Using the BIAS framework (behavior, information, analysis, structure) to analyze your biases and make a good decision 
+- [The Big Idea: Before You Make That Big Decision...](https://hbr.org/2011/06/the-big-idea-before-you-make-that-big-decision) (article) 
+  - One of the Harvard Business Review's top articles, a checklist of 12 questions that any leader should ask before making a big decision 
+
+
 ### Product Management
 - [Inspired](https://blinki.st/0e6f8273219e) (book)
   - How to be a great product manager 
@@ -60,8 +67,6 @@ Here's a list of resources I have personally found helpful. I include the Blinki
   - @alexwitherspoon's fantastic resource on remote manager tools
 - [Resilient Management](https://abookapart.com/products/resilient-management) (book) 
   - Excellent book for managers looking to improve their team processes, how to handle tough conversations, and 1:1s. Has actionable templates and is a reasonable length!
-- [The Big Idea: Before You Make That Big Decision...](https://hbr.org/2011/06/the-big-idea-before-you-make-that-big-decision) (article) 
-  - One of the Harvard Business Review's top articles, a checklist of 12 questions that any leader should ask before making a big decision 
 - [The invisible song of engineering leadership](https://leaddev.com/leadership-skills/invisible-song-engineering-leadership) (article)
   - When technicality isn't enough to quantify what makes a good leader
 - [The Ultimate Guide to Successful Meetings](https://www.fearlessculture.design/blog-posts/the-ultimate-guide-to-successful-meetings) (aricle)
