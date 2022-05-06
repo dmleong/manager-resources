@@ -9,6 +9,10 @@ Here's a list of resources I have personally found helpful. I include the Blinki
   - Being "busy" is not usually a good thing these days 
 - [Panda Planner](http://pandaplanner.com) (tool)
   - Physical day planner that helps balance priorities with mental health
+
+## Business 
+- [Finance for Designers](https://ellenchisa.substack.com/p/finance-for-designers?s=r) (article)
+  - Business 101 for designers and engineers to help understand why revenue/sales folks may make the requests they do and how to work with your revenue partners instead of against them
   
 ### Inclusivity (more found on [my website](https://danielleleong.com/recommended-readings/))
 - [How to grow emotionally intelligent engineering teams](https://pbell.wistia.com/medias/k8htv3947p) (talk)
