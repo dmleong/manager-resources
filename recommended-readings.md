@@ -111,6 +111,8 @@ Here's a list of resources I have personally found helpful. I include the Blinki
   - Outlining the different types of staff engineers
 
 ### Tools
+- [Linear Method for building software](https://linear.app/method/introduction) (process)
+  - Concise way of organizing work, being flexible, and focusing on alignment  
 - [Plucky 1:1 cards](https://shop.beplucky.com/products/the-plucky-1-1-starter-pack) (tool)
   - Deck of cards with questions to ask in 1:1s to inspire deeper conversation around individuals, teams, and organizations 
 - [Reader Mode](https://readermode.io/) (chrome extension)
