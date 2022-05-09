@@ -97,6 +97,8 @@ Here's a list of resources I have personally found helpful. I include the Blinki
   - Article helpful particularly for staff engineers or staff hopefuls who are struggling to move from doing the work to unblocking people and becoming a leader
 - [Becoming a Better Writer in Tech](https://blog.pragmaticengineer.com/becoming-a-better-writer-in-tech/) (article)
   - Writing is a crucial part of growing your career. Being a clear and crisp communicator helps in all aspects of you job. Great article with tools and tips on how to become a better writer 
+- [High Bit-rate People](https://calv.info/bitrate) (article)
+  - How to be more concise with communication and transfer more information in fewer words 
 - [Manager's Path](https://www.amazon.com/Managers-Path-Leaders-Navigating-Growth/dp/1491973897) (book)
   - Highly recommend the section on how to be a tech lead 
 - [Not all engineering leaders are managers](https://leaddev.com/not-all-engineering-leaders-are-engineering-managers) (article) 
