@@ -18,6 +18,8 @@ Here's a list of resources I have personally found helpful. I include the Blinki
 - [How to grow emotionally intelligent engineering teams](https://pbell.wistia.com/medias/k8htv3947p) (talk)
 - [When Black Women Go From Office Pet to Office Threat](https://zora.medium.com/when-black-women-go-from-office-pet-to-office-threat-83bde710332e) (article)
   - First your boss loves you, then they dislike you. Here’s how Black women can manage the icy transition.
+- [Why women and people of color fall off the glass cliff](https://www.youtube.com/embed/5nMbKkgqork) (video)
+  - 10 min video on why women and racially marginalized people in senior leadership are often set up to fail and the snowball effect it has on the business 
 
 ## Decision making 
 - [Make Better Decisions by Challenging Your Expectations](https://hbr.org/2022/04/make-better-decisions-by-challenging-your-expectations?utm_medium=email&utm_source=newsletter_daily&utm_campaign=dailyalert_actsubs&utm_content=signinnudge&deliveryName=DM189727) (article)
