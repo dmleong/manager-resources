@@ -28,6 +28,7 @@ Check out my blog posts/podcast episodes on [goals and effective 1:1s](https://m
   - [Bi-weekly iterations](docs/meetings.md#biweekly-iterations)
   - [Retrospectives](docs/meetings.md#retrospectives)
 - [Things I'm working on](docs/about.md#things-im-working-on)
+- [Recommended readings](recommended-readings.md)
 
 
 ## Conclusion
