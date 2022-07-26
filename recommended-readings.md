@@ -67,6 +67,8 @@ Here's a list of resources I have personally found helpful. I include the Blinki
   - How to lead without explicit power through modeling behavior you want to see, documenting best practices, and sharing 
 - [Multipliers](https://blinki.st/0e6f8273219e) (book)
   - Amplify your impact by making other people better so you can do other things 
+- [Netflix's Pivot to Growing Teams Internally](https://www.youtube.com/watch?v=FzYStDy1RjE&t=28s) (podcast)
+  - Great podcast on how to grow talent internally because hiring "the best" can only take you so far. You need to also be able to grow the best internally
 - [Radical Candor](https://blinki.st/0e6f8273219e) (book)
   - Giving people feedback is a kindness! Make sure you do it regularly and honestly 
 - [Remote manager toolkit](https://github.com/alexwitherspoon/Remote-Manager-Toolkit) (tool)
