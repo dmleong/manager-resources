@@ -7,7 +7,7 @@ I believe in putting people first. I believe in collaborative teams without bull
 
 ## Publications: 
 
-Check out my blog posts/podcast episodes on [goals and effective 1:1s](https://medium.com/@tsunamino/setting-goals-with-your-engineers-that-dont-completely-suck-cb76b87e4275), [how to run effective meetings](https://leaddev.com/culture-engagement-motivation/how-have-meetings-dont-suck-much), and [how to run emotionally intelligent engineering teams](https://fellow.app/supermanagers/danielle-leong-github-ask-versus-guess-culture/). For managing through COVID, please check out [these practical tips](https://medium.com/@tsunamino/practical-tips-for-managing-people-through-covid-19-52ec2db38e06). 
+Check out my blog posts/podcast episodes on [how to run emotionally intelligent engineering teams (podcast)](https://fellow.app/supermanagers/danielle-leong-github-ask-versus-guess-culture/), [goals and effective 1:1s](https://medium.com/@tsunamino/setting-goals-with-your-engineers-that-dont-completely-suck-cb76b87e4275), and [how to run effective meetings](https://leaddev.com/culture-engagement-motivation/how-have-meetings-dont-suck-much). For managing through COVID, please check out [these practical tips](https://medium.com/@tsunamino/practical-tips-for-managing-people-through-covid-19-52ec2db38e06). 
 
 ## Table of contents
 - [About](docs/about.md)
