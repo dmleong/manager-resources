@@ -41,7 +41,7 @@ As a high performer myself, I find that the best way to stifle someone's passion
 
 - I try acknowledge the good as well as the Needs Improvement(tm)! Sometimes as a high performer, you don't realize just how great you're doing because it's easy to move on to the next thing that needs fixing. I'll be sure to point out when you're also kicking ass.
 
-- I'll probably keep a close on your PTO. As a high performer myself, I'm often working on a million things at once until all of a sudden I'm too exhausted to do anything. I'll likely keep a reoccurring task on our 1:1 agendas to check in on the last time you took some time off.
+- I'll probably keep a close eye on your PTO. As a high performer myself, I'm often working on a million things at once until all of a sudden I'm too exhausted to do anything. I'll likely keep a reoccurring task on our 1:1 agendas to check in on the last time you took some time off.
 
 ## How I will provide feedback to you
 
