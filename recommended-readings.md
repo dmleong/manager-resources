@@ -16,6 +16,8 @@ Here's a list of resources I have personally found helpful. I include the Blinki
   
 ### Inclusivity (more found on [my website](https://danielleleong.com/recommended-readings/))
 - [How to grow emotionally intelligent engineering teams](https://pbell.wistia.com/medias/k8htv3947p) (talk)
+- [The Psychological Toll of Being the Only Woman of Color at Work](https://hbr.org/2022/09/the-psychological-toll-of-being-the-only-woman-of-color-at-work) (article)
+  - Self-explanatory description of what it's like to be the only woman of color at work and resources for help
 - [When Black Women Go From Office Pet to Office Threat](https://zora.medium.com/when-black-women-go-from-office-pet-to-office-threat-83bde710332e) (article)
   - First your boss loves you, then they dislike you. Here’s how Black women can manage the icy transition.
 - [Why women and people of color fall off the glass cliff](https://www.youtube.com/embed/5nMbKkgqork) (video)
