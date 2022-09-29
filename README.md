@@ -10,6 +10,7 @@ I believe in putting people first. I believe in collaborative teams without bull
 Check out my blog posts/podcast episodes on:
 - [How to run emotionally intelligent engineering teams](https://fellow.app/supermanagers/danielle-leong-github-ask-versus-guess-culture/) (podcast)
 - [Setting goals with your engineers that don't completely suck](https://medium.com/@tsunamino/setting-goals-with-your-engineers-that-dont-completely-suck-cb76b87e4275)
+- [How to build a healthy relationship between engineering and product](https://leaddev.com/cross-functional-collaboration/how-build-healthy-relationship-between-engineering-and-product?utm_source=ActiveCampaign&utm_medium=email&utm_content=How+to+build+a+healthy+relationship+between+engineering+and+product&utm_campaign=Originals+-+Issue+106+%28September+29%29&vgo_ee=ijbIr%2BuJQXk%2FfTxzEsFdwIgh9FwyGMDaZyYD%2BTLxuXQ%3D) 
 - [10 Expert Tips for Effective 1:1s](https://fellow.app/blog/meetings/tips-for-effective-and-meaningful-one-on-one-meetings/) 
 - [How to run effective meetings](https://leaddev.com/culture-engagement-motivation/how-have-meetings-dont-suck-much)
 - [Practical tips for managing people through Covid](https://medium.com/@tsunamino/practical-tips-for-managing-people-through-covid-19-52ec2db38e06) 
