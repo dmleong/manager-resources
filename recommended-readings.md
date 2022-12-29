@@ -33,6 +33,8 @@ Here's a list of resources I have personally found helpful. I include the Blinki
 ### Product Management
 - [Inspired](https://blinki.st/0e6f8273219e) (book)
   - How to be a great product manager 
+- [Good Product Manager, Bad Product Manager](https://a16z.com/2012/06/15/good-product-managerbad-product-manager/) (article) 
+  - Defines a good product manager as a CEO of their product area and defines a bad one 
 
 ### Management
 - [10 Expert Tips for Effective and Meaningful One-on-One Meetings](https://fellow.app/blog/2020/tips-for-effective-and-meaningful-one-on-one-meetings/) (article)
