@@ -99,6 +99,10 @@ Here's a list of resources I have personally found helpful. I include the Blinki
   - We are still doing phrasing and it's important. Communication is so important as a manager
 - [You're not just a manager, you're also a boss](https://leaddev.com/professional-development/youre-not-just-manager-youre-also-boss) (article) 
   - Article on keeping power dynamics at the front of your mind as your power and influence grows. (CW: discusses insurrection attempt at the US Capital on Jan 6, 2021)
+
+### Startups 
+- [Joining a Startup for the First Time? 30 Actionable Tips From Folks Who've Been There](https://review.firstround.com/30-tips-for-new-startup-employees) (article)
+  - Great tips on what to do in your first startup
   
 ### Technical leadership outside of management
 - [An incomplete list of skills senior engineers need beyond coding](https://skamille.medium.com/an-incomplete-list-of-skills-senior-engineers-need-beyond-coding-8ed4a521b29f)  (article)
