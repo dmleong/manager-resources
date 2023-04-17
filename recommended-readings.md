@@ -117,7 +117,7 @@ Here's a list of resources I have personally found helpful. I include the Blinki
   - Highly recommend the section on how to be a tech lead 
 - [Not all engineering leaders are managers](https://leaddev.com/not-all-engineering-leaders-are-engineering-managers) (article) 
   - Stop pushing leaders into management if it doesn't suit them. This article discusses how to encourage ICs into a parallel technical track and measuring strategy, execution, and influence. 
-- [Presenting to executives](https://leaddev.com/communication-relationships/presenting-executives?regsuccess=1) (video)
+- [Presenting to executives](https://player.vimeo.com/video/501142624?feature=oembed&enablejsapi=1) (video)
   - This talk presents some concrete strategies for planning your presentation, preparing the attendees, handling unexpected questions, going down rabbit holes, driving the attendees to a decision (if that is your goal), and following up afterward.
 - [Reasons to step into a leadership role (or not)](https://leaddev.com/reasons-step-leadership-role-and-reasons-not) (article) 
   - Are you interested in becoming a manager or stepping into a leadership role? What's driving you? Check out this great resource and make sure you're doing it for the right reasons
