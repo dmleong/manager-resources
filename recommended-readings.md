@@ -67,6 +67,8 @@ Here's a list of resources I have personally found helpful. I include the Blinki
   - You can always tell when a company implements a bonus structure because their products no longer make sense. Great podcast (with transcript!) on fine tuning performance reviews to incentivize collaboration and actually doing what's right for the customer
 - [Kübler-Ross Challenge Curve](https://www.ekrfoundation.org/5-stages-of-grief/change-curve/) (diagram)
   - Creators of the 5 stages of grief, this outlines the 7 stages of dealing with organizational change 
+- [Leading with Heart](https://leadingwithheartbook.com/) (book)
+  - ⭐ One of my favorite leadership books, this book discusses how to set a good example by leading with empathy and making sure you aren't causing your own organizational problems by taking care of your base needs first 
 - [Manager's Path](https://www.amazon.com/Managers-Path-Leaders-Navigating-Growth/dp/1491973897) (book)
   - Excellent book on the various different levels of management. Something I come back to at each level of my career
 - [Model, Document, Share](https://lethain.com/model-document-share/) (article)
