@@ -8,6 +8,7 @@ I believe in putting people first. I believe in collaborative teams without bull
 ## Publications: 
 
 Check out my blog posts/podcast episodes on:
+- [Role models, restructuring, and living in the future with Danielle Leong](https://open.spotify.com/episode/6VHYn8fbvqeRDDtPnxkcxh?si=808c8780aa0c45a7) (podcast)
 - [How to run emotionally intelligent engineering teams](https://fellow.app/supermanagers/danielle-leong-github-ask-versus-guess-culture/) (podcast)
 - [Setting goals with your engineers that don't completely suck](https://medium.com/@tsunamino/setting-goals-with-your-engineers-that-dont-completely-suck-cb76b87e4275)
 - [How to build a healthy relationship between engineering and product](https://leaddev.com/cross-functional-collaboration/how-build-healthy-relationship-between-engineering-and-product?utm_source=ActiveCampaign&utm_medium=email&utm_content=How+to+build+a+healthy+relationship+between+engineering+and+product&utm_campaign=Originals+-+Issue+106+%28September+29%29&vgo_ee=ijbIr%2BuJQXk%2FfTxzEsFdwIgh9FwyGMDaZyYD%2BTLxuXQ%3D) 
