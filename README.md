@@ -2,11 +2,11 @@
 
 Welcome to my README! In the age of remote work, it can be harder than ever to get to know the people you work with (especially a new manager!), so I wrote this README in hopes to help you understand how best to work with me. I care deeply about the work I do and the people on my team and I want to help you be your best self and do your best work.
 
-{% note %}
 
-**Special thank you** to [Danielle Leong](https://github.com/dmleong) for graciously allowing me to steal/fork her idea (and content) for this repository
+> [!NOTE]
+> **Special thank you** to [Danielle Leong](https://github.com/dmleong) for graciously allowing me to steal/fork her idea (and content) for this repository
 
-{% endnote %}
+
 ## TLDR
 I believe in putting people first. I believe in collaborative teams without bullies. I believe in progress over perfection. I value getting it right over being right. I will advocate for you both professionally and personally. I believe discomfort leads to growth. I value transparency, authenticity and vulnerability. I value the safety of the marginalized over the hurt feelings of the privileged. I am an extrovert. I recommend watching [Ted Lasso](https://en.wikipedia.org/wiki/Ted_Lasso) and [The Call to Courage](https://youtu.be/gr-WvA7uFDQ?si=W6u6TuN3oAuvRpyI) to understand my motivations for leading a team and my philosophy around the importance of authenticity and vulnerability.
 
