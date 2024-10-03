@@ -1,25 +1,13 @@
 # 1:1 Agenda
 
-### Where are you presently at in your career? 
-- Notes
-
-### What do you want to work on more? 
-- Notes 
-
-### What is your working style? How much information do you need in order to make a decision? How many projects do you like to balance at once? 
-- Notes
-
-### What causes you stress? 
-- Notes
-
-### What do you like from your manager? 
-- Notes
-
-### What do you not like from your manager? 
-- Notes
-
-### How do you like to receive praise?
-- Notes
+* Where are you presently at in your career?
+* What movitates you?
+* What do you want to work on more?
+* What is your working style? How much information do you need in order to make a decision? How many projects do you like to balance at once?
+* What causes you stress?
+* What do you like from your manager?
+* What do you not like from your manager?
+* How do you like to receive praise?
 
 ### Links
 - [Manager README](https://github.com/dmleong/manager-resources )
