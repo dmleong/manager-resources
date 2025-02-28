@@ -123,6 +123,8 @@ Here's a list of resources I have personally found helpful. I include the Blinki
   - This talk presents some concrete strategies for planning your presentation, preparing the attendees, handling unexpected questions, going down rabbit holes, driving the attendees to a decision (if that is your goal), and following up afterward.
 - [Reasons to step into a leadership role (or not)](https://leaddev.com/reasons-step-leadership-role-and-reasons-not) (article) 
   - Are you interested in becoming a manager or stepping into a leadership role? What's driving you? Check out this great resource and make sure you're doing it for the right reasons
+- [The Software Engineer Spectrum: Speed vs. Accuracy](https://benhowdle.im/software-engineer-spectrum.html) (article)
+  - How to balance hiring for startups, growth, and enterprise by determining how comfortable someone is on the spectrum of speed vs accuracy  
 - [The reality of being a principal engineer](https://leaddev.com/career-paths-progression-promotion/reality-being-principal-engineer) (article)
   - What's it really like to be a principal engineer? Discussing the influence needed to maintain a principal engineer position, rather than focusing on the code
 - [Staff archetypes](https://staffeng.com/guides/staff-archetypes) (article) 
