@@ -2,6 +2,16 @@
 
 Here's a list of resources I have personally found helpful. I include the Blinkist link if I can (Cliffnotes for management books) because books are long and who has time?
 
+## AI Resources 
+- [12-Factor Agents: Patterns of reliable LLM applications — Dex Horthy, HumanLayer](https://www.youtube.com/watch?v=8kMaTybvDUw&t=1s) (Video)
+  - Fast-paced video version of an [article](https://github.com/humanlayer/12-factor-agents?tab=readme-ov-file#the-short-version-the-12-factors) covering how to think about productionizing agents 
+- [Building Production-Ready RAG Applications: Jerry Liu](https://www.youtube.com/watch?v=TRjq7t2Ms5I) (Video)
+  - Great video on how to productionize LLMs into your application in a pratical, non-magical, approachable way
+- [Software Is Changing (Again)](https://www.youtube.com/watch?v=LCEmiRjPEtQ) (Video)
+  - Great video for those who are new or hesitant to AI. Drawing on his work at Stanford, OpenAI, and Tesla, Andrej sees a shift underway. Software is changing, again. We’ve entered the era of “Software 3.0,” where natural language becomes the new programming interface and models do the rest.
+- [The New Code — Sean Grove, OpenAI](https://www.youtube.com/watch?v=8rABwKRsec4) (Video)
+  - Thought-provoking talk on treating generated code as binaries and prompts as source code 
+
 ### Burnout
 - [Burnout: the secret to unlocking the stress cycle](https://www.amazon.com/dp/1984818325/ref=cm_sw_r_cp_api_i_DqVkEbEKKD7WY) (book)
   - Excellent book for women/femmes who are exhausted by the demands of work, home, and society. Discusses tools to close the stress cycle and how the game is rigged 
