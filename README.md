@@ -10,6 +10,7 @@ I believe in putting people first. I believe in collaborative teams without bull
 Check out my blog posts/podcast episodes on:
 - [AI, code quality & your dev role: Insights from CTOs](https://www.youtube.com/watch?v=5sU8Rs3PK0s) (YouTube podcast)
 - [The Hidden Cost of Shipping Fast: How to Prioritize Without Burning Out Your Team](https://www.thedraftingtablepodcast.com/content/the-hidden-cost-of-shipping-fast-how-to-prioritize-without-burning-out-your-team) (podcast)
+- [Building Enterprise Software: Discovering FireHydrant](https://m.youtube.com/watch?v=mpcbPWvYG1g&pp=ygUZRGFuaWVsbGUgbGVvbmcgZW50ZXJwcmlzZQ%3D%3D) (YouTube Podcast)
 - [Role models, restructuring, and living in the future with Danielle Leong](https://open.spotify.com/episode/6VHYn8fbvqeRDDtPnxkcxh?si=808c8780aa0c45a7) (podcast)
 - [How to run emotionally intelligent engineering teams](https://fellow.app/supermanagers/danielle-leong-github-ask-versus-guess-culture/) (podcast)
 - [Setting goals with your engineers that don't completely suck](https://medium.com/@tsunamino/setting-goals-with-your-engineers-that-dont-completely-suck-cb76b87e4275)
