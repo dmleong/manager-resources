@@ -23,7 +23,7 @@ Check out my blog posts/podcast episodes on:
 ## Table of contents
 - [About](docs/about.md)
   - [My philosophy](docs/about.md#my-philosophy)
-  - [My role](docs/about.md#my-role) (momma bear coaching soccer.gif)
+  - [My role](docs/about.md#my-role)
   - [Values](docs/about.md#values)
 - [Expectations](docs/expectations.md#expectations) 
   - [High performers](docs/expectations.md#high-performers)
