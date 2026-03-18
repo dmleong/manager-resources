@@ -4,7 +4,9 @@ Here's a list of resources I have personally found helpful. I include the Blinki
 
 ## AI Resources 
 - [12-Factor Agents: Patterns of reliable LLM applications — Dex Horthy, HumanLayer](https://www.youtube.com/watch?v=8kMaTybvDUw&t=1s) (Video)
-  - Fast-paced video version of an [article](https://github.com/humanlayer/12-factor-agents?tab=readme-ov-file#the-short-version-the-12-factors) covering how to think about productionizing agents 
+  - Fast-paced video version of an [article](https://github.com/humanlayer/12-factor-agents?tab=readme-ov-file#the-short-version-the-12-factors) covering how to think about productionizing agents
+- [AI Didn't Break the Senior Engineer Pipeline. It Showed That One Never Existed](https://blog.bryanl.dev/posts/ai-senior-engineer-pipeline/) (Article)
+  - An excellent article on how AI is changing engineering management and how to challenge engineers for growth in the age of AI 
 - [Building Production-Ready RAG Applications: Jerry Liu](https://www.youtube.com/watch?v=TRjq7t2Ms5I) (Video)
   - Great video on how to productionize LLMs into your application in a pratical, non-magical, approachable way
 - [Software Is Changing (Again)](https://www.youtube.com/watch?v=LCEmiRjPEtQ) (Video)
