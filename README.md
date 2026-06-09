@@ -5,7 +5,9 @@ Welcome to my README! In the age of remote work, it can be harder than ever to g
 This guide is written primarily for ICs or managers who report to me. For peer relationships at the exec level and above, please reach out for a more tailored guide.
 
 ## TLDR
-I believe people are the foundations of a company. I believe in collaborative teams with accountability. I believe AI is a tool that amplifies the good and the bad. I love to ship things quickly and iteratively. I love to learn and to teach. I highly value intellectual honesty and providing context with transparency. I will help you become the best person you can be if you want me to. I recommend reading [Radical Candor](https://www.blinkist.com/en/books/radical-candor-en/) to understand my feelings on *compassionate* feedback and watching Parks and Recreation (Seasons 2-6), [Ted Lasso season 1](https://en.wikipedia.org/wiki/Ted_Lasso) and [Fresh Off the Boat](https://en.wikipedia.org/wiki/Fresh_Off_the_Boat) (seasons 1-4) to understand my motivations for running a team and Lara Hogan's [Resilient Management](https://abookapart.com/products/resilient-management) to understand my communication style.
+I believe people are the foundations of a company. I believe in collaborative teams with accountability. I believe AI is a tool that amplifies the good and the bad. I love to ship things quickly and iteratively. I love to learn and to teach. I highly value intellectual honesty and providing context with transparency. I will help you become the best person you can be if you want me to. 
+
+I recommend reading [Radical Candor](https://www.blinkist.com/en/books/radical-candor-en/) to understand my feelings on *compassionate* feedback and watching Parks and Recreation (Seasons 2-6), [Ted Lasso season 1](https://en.wikipedia.org/wiki/Ted_Lasso) and [Fresh Off the Boat](https://en.wikipedia.org/wiki/Fresh_Off_the_Boat) (seasons 1-4) to understand my motivations for running a team and Lara Hogan's [Resilient Management](https://abookapart.com/products/resilient-management) to understand my communication style.
 
 ## Publications: 
 
