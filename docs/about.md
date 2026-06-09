@@ -9,9 +9,10 @@ I often ask people "What is your purpose in life?" I think it's a very telling q
 
 ## My role
 
-My role as a leader is to provide guidance, clarity, coaching, and remove roadblocks. I expect my reports to be collaborative team players and to be good sports if something does go wrong. There is no room for ego on my team. **There is no room for bullies on this team.** If someone is doing really well on the team, we should all celebrate that person's work! If you're doing really well, we will also celebrate you! If you need to constantly be in the limelight **at the expense of others**, then you may want to reconsider if this is the best fit for you.
+My role as a leader is to provide guidance, clarity, coaching, and remove roadblocks. I expect my reports to be collaborative team players and to be good sports if something does go wrong. There is no room for ego on my team. If someone is doing really well on the team, we should all celebrate that person's work! If you're doing really well, we will also celebrate you! 
 
-I also identify pretty strongly with Jessica from [Fresh Off the Boat](https://en.wikipedia.org/wiki/Fresh_Off_the_Boat) (in the first 4 seasons at least). I'll push you to do your absolute best, but it's only because I care about your future!
+Software is a team sport - you can get pretty far alone, but we can go further together. 
+
 
 My role as the EM on this team is to:
 
@@ -35,8 +36,6 @@ You do have to meet me halfway. I will be your biggest cheerleader, but I can't 
 I value honesty over saving face.
 
 I value genuine efforts to improve over using the "correct" words all the time.
-
-I value the safety of the marginalized over the hurt feelings of the privileged.
 
 I value context and transparency.
 
