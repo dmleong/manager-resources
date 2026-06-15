@@ -14,7 +14,7 @@ I recommend reading [Radical Candor](https://www.blinkist.com/en/books/radical-c
 Check out my blog posts/podcast episodes on:
 - [5 lessons learned from startups you can't get in a book](https://www.linkedin.com/pulse/5-lessons-learned-from-startups-you-cant-get-book-danielle-leong-vueee) (article)
 - [AI, code quality & your dev role: Insights from CTOs](https://www.youtube.com/watch?v=5sU8Rs3PK0s) (YouTube podcast)
-- [The Hidden Cost of Shipping Fast: How to Prioritize Without Burning Out Your Team](https://www.thedraftingtablepodcast.com/content/the-hidden-cost-of-shipping-fast-how-to-prioritize-without-burning-out-your-team) (podcast)
+- [The Hidden Cost of Shipping Fast: How to Prioritize Without Burning Out Your Team](https://podcasts.apple.com/us/podcast/the-hidden-cost-of-shipping-fast-how-to/id1802998731?i=1000711081765) (podcast)
 - [Building Enterprise Software: Discovering FireHydrant](https://m.youtube.com/watch?v=mpcbPWvYG1g&pp=ygUZRGFuaWVsbGUgbGVvbmcgZW50ZXJwcmlzZQ%3D%3D) (YouTube Podcast)
 - [Role models, restructuring, and living in the future with Danielle Leong](https://open.spotify.com/episode/6VHYn8fbvqeRDDtPnxkcxh?si=808c8780aa0c45a7) (podcast)
 - [How to run emotionally intelligent engineering teams](https://fellow.app/supermanagers/danielle-leong-github-ask-versus-guess-culture/) (podcast)
